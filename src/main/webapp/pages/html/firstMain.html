@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>网上水果销售平台</title>
+
+		<link href="../css/bootstrap.min.css" rel="stylesheet">
+		<script src="../js/jquery-1.11.3.min.js"></script>
+		<script src="../js/bootstrap.min.js"></script>
+
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<img src="../img/head.png" width="100%" height="100">
+			</div>
+			<div class="row">
+				<!-- 导航条-->
+				<nav class="navbar navbar-static-top navbar-inverse">
+					<div class="container-fluid">
+						<!-- 导航图标及汉堡按钮 -->
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+							 aria-expanded="false">
+								<!-- class="sr-only" 阅读器专用的样式-->
+								<span class="sr-only">这是汉堡按钮</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+
+						<!-- 导航的主题部分 -->
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav">
+								<li class="active"><a href="#">首页</a></li>
+								<li><a href="AllShop.html">所有商品</a></li>
+								<li><a href="newshop.html">最新商品</a></li>
+								<li><a href="recommend-shop.html">推荐商品</a></li>
+								<li><a href="hotsale-shop.html">热卖商品</a></li>
+								<li><a href="specialoffer-shop.html">特价商品</a></li>
+								<li><a href="personal_center.html">个人中心</a></li>
+								<li><a href="#">用户留言</a></li>
+								<li><a href="#">购物车</a></li>
+								<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+								<li><a href="../../WEB-INF/mLogin.jsp">登录</a></li>
+								<li><a href="注册.html">注册</a></li>
+
+							</ul>
+							<form class="navbar-form navbar-right" role="search">
+								<div class="form-group">
+									<input type="text" class="form-control" placeholder="请输入水果的名称">
+								</div>
+								<button type="submit" class="btn btn-default">搜索</button>
+							</form>
+						</div>
+					</div>
+				</nav>
+			</div>
+
+			<!-- 主要内容放置 -->
+			<div class="row">
+				<div class="col-xs-2">
+					<dl>
+						<dt><h3><font color="red">商品分类</font></h2></dt>
+						<dd><a href="#pingguo">苹果</a></dd>
+						<dd><a href="#chengzi">橙子</a></dd>
+						<dd><a href="#youzi">柚子</a></dd>
+						<dd><a href="#juzi">橘子</a></dd>
+						<dd><a href="#xiangjiao">香蕉</a></dd>
+						<dd><a href="#mihoutao">猕猴桃</a></dd>
+						<dd><a href="#li">梨类</a></dd>
+						<dd><a href="#mangguo">芒果类</a></dd>
+						<dd><a href="#qita">其它水果</a></dd>
+					</dl>
+				</div>
+				<div class="col-xs-10">
+					<!-- 轮播图 -->
+					<div class="row">
+						<div id="carousel-example-generic" class="col-xs-9 col-xs-offset-1 carousel slide" data-ride="carousel" data-interval="2000">
+							<!-- 小圆点 -->
+							<ol class="carousel-indicators">
+								<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="3"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="4"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="5"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="6"></li>
+								<li data-target="#carousel-example-generic" data-slide-to="7"></li>
+							</ol>
+
+							<!-- 轮播图图片主体部分 -->
+							<div class="carousel-inner" role="listbox">
+								<div class="item active">
+									<a href="#pingguo"><img src="../img/主页轮播图/图1.png"></a>
+								</div>
+								<div class="item">
+									<a href="#chengzi"><img src="../img/主页轮播图/图2.png"></a>
+								</div>
+								<div class="item">
+									<a href="#youzi"><img src="../img/主页轮播图/图3.png"></a>
+								</div>
+								<div class="item">
+									<a href="#juzi"><img src="../img/主页轮播图/图4.png"></a>
+								</div>
+								<div class="item">
+									<a href="#xiangjiao"><img src="../img/主页轮播图/图5.png"></a>
+								</div>
+								<div class="item">
+									<a href="#mihoutao"><img src="../img/主页轮播图/图6.png"></a>
+								</div>
+								<div class="item">
+									<a href="#li"><img src="../img/主页轮播图/图7.png"></a>
+								</div>
+								<div class="item">
+									<a href="#mangguo"><img src="../img/主页轮播图/图8.png"></a>
+								</div>
+							</div>
+
+							<!-- 左右控制按钮 -->
+							<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+								<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+								<span class="sr-only">Previous</span>
+							</a>
+							<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+								<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+								<span class="sr-only">Next</span>
+							</a>
+						</div>
+					</div>
+
+
+					<!-- 苹果类 -->
+					<div id="pingguo" class="row">
+						<div class="col-xs-3">
+							<font size="5" color="deepskyblue">苹果类</font>
+						</div>
+						<div class="col-xs-2 col-xs-offset-7">
+							<a href="#">
+								<font size="4">更多商品》</font>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/苹果/苹果1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/苹果/苹果1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/苹果/苹果1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/苹果/苹果1.png" width="200" /></a>
+						</div>
+					</div>
+
+					<!-- 橙子类 -->
+					<div id="chengzi" class="row">
+						<div class="col-xs-3">
+							<font size="5" color="deepskyblue">橙子类</font>
+						</div>
+						<div class="col-xs-2 col-xs-offset-7">
+							<a href="#">
+								<font size="4">更多商品》</font>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/橙子/橙子1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/橙子/橙子1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/橙子/橙子1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/橙子/橙子1.png" width="200" /></a>
+						</div>
+					</div>
+
+					<!-- 柚子类 -->
+					<div id="youzi" class="row">
+						<div class="col-xs-3">
+							<font size="5" color="deepskyblue">柚子类</font>
+						</div>
+						<div class="col-xs-2 col-xs-offset-7">
+							<a href="#">
+								<font size="4">更多商品》</font>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/柚子/柚子1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/柚子/柚子1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/柚子/柚子1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/柚子/柚子1.png" width="200" /></a>
+						</div>
+					</div>
+					
+					<!-- 橘子类 -->
+					<div id="juzi" class="row">
+						<div class="col-xs-3">
+							<font size="5" color="deepskyblue">橘子类</font>
+						</div>
+						<div class="col-xs-2 col-xs-offset-7">
+							<a href="#">
+								<font size="4">更多商品》</font>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/橘子/橘子1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/橘子/橘子1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/橘子/橘子1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/橘子/橘子1.png" width="200" /></a>
+						</div>
+					</div>
+					
+					<!-- 香蕉类 -->
+					<div id="xiangjiao" class="row">
+						<div class="col-xs-3">
+							<font size="5" color="deepskyblue">香蕉类</font>
+						</div>
+						<div class="col-xs-2 col-xs-offset-7">
+							<a href="#">
+								<font size="4">更多商品》</font>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/香蕉/香蕉1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/香蕉/香蕉1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/香蕉/香蕉1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/香蕉/香蕉1.png" width="200" /></a>
+						</div>
+					</div>
+					
+					<!-- 猕猴桃类 -->
+					<div id="mihoutao" class="row">
+						<div class="col-xs-3">
+							<font size="5" color="deepskyblue">猕猴桃类</font>
+						</div>
+						<div class="col-xs-2 col-xs-offset-7">
+							<a href="#">
+								<font size="4">更多商品》</font>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/猕猴桃/猕猴桃1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/猕猴桃/猕猴桃1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/猕猴桃/猕猴桃1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/猕猴桃/猕猴桃1.png" width="200" /></a>
+						</div>
+					</div>
+					
+					<!-- 梨类 -->
+					<div id="li" class="row">
+						<div class="col-xs-3">
+							<font size="5" color="deepskyblue">梨类</font>
+						</div>
+						<div class="col-xs-2 col-xs-offset-7">
+							<a href="#">
+								<font size="4">更多商品》</font>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/梨/梨1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/梨/梨1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/梨/梨1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/梨/梨1.png" width="200" /></a>
+						</div>
+					</div>
+					
+					<!-- 芒果类 -->
+					<div id="mangguo" class="row">
+						<div class="col-xs-3">
+							<font size="5" color="deepskyblue">芒果类</font>
+						</div>
+						<div class="col-xs-2 col-xs-offset-7">
+							<a href="#">
+								<font size="4">更多商品》</font>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/芒果/芒果1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/芒果/芒果1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/芒果/芒果1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/芒果/芒果1.png" width="200" /></a>
+						</div>
+					</div>
+					
+					<!-- 其它水果类 -->
+					<div id="qita" class="row">
+						<div class="col-xs-3">
+							<font size="5" color="deepskyblue">其它水果类</font>
+						</div>
+						<div class="col-xs-2 col-xs-offset-7">
+							<a href="#">
+								<font size="4">更多商品》</font>
+							</a>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/其它水果/枇杷1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/其它水果/枇杷1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/其它水果/枇杷1.png" width="200" /></a>
+						</div>
+						<div class="col-xs-3">
+							<a href="#"><img src="../img/其它水果/枇杷1.png" width="200" /></a>
+						</div>
+					</div>
+					
+				</div>
+
+				<!-- 底部内容 -->
+				<div class="row">
+					<div class="col-xs-12 text-center" style="margin-top: 30px;">
+						<ul class="list-inline">
+							<li><a href="#">关于我们</a></li>
+							<li><a href="#">联系我们</a></li>
+							<li><a href="#">招贤纳士</a></li>
+							<li><a href="#">法律声明</a></li>
+							<li><a href="#">友情连接</a></li>
+							<li><a href="#">支付方式</a></li>
+							<li><a href="#">配送方式</a></li>
+							<li><a href="#">服务声明</a></li>
+							<li><a href="#">广告声明</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="row" style="margin-top: 30px;">
+					<div class="col-xs-12 text-center">
+						Copyriht &copy; 2021-2022 攀枝花学院 Web应用专业团队 版权所有
+					</div>
+				</div>
+			</div>
+	</body>
+</html>
