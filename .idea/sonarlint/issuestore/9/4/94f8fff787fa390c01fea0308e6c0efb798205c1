@@ -1,0 +1,30 @@
+
+3javascript:S2814#"'h' is already defined.(ĞÜŸ
+ujavascript:S3776*"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¹ÁË€üÿÿÿÿ
+Qjavascript:S1481c"5Remove the declaration of the unused 'opts' variable.(Ÿ ù
+Njavascript:S1854c"2Remove this useless assignment to variable "opts".(Ÿ ù
+pjavascript:S3776o"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(² æØ
+Ljavascript:S1117{"+'v' is already declared in the upper scope.(¯ÒÖ•ÿÿÿÿÿ
+Mjavascript:S1117}",'el' is already declared in the upper scope.(ĞìùÉúÿÿÿÿ
+ijavascript:S4138‡"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Èß‹µ
+@javascript:S125É"Remove this commented out code.(ªÏ¥£øÿÿÿÿ
+Ijavascript:S1125Ë"'Remove the unnecessary boolean literal.(”›ù…øÿÿÿÿ
+qjavascript:S3776×"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(òÒâŞ
+Hjavascript:S1117å"+'q' is already declared in the upper scope.(ÓÑ†±
+njavascript:S4138é"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ñ¸ğˆÿÿÿÿÿ
+Wjavascript:S1481ï"5Remove the declaration of the unused 'item' variable.(¨¥Ûøÿÿÿÿÿ
+Tjavascript:S1854ï"2Remove this useless assignment to variable "item".(¨¥Ûøÿÿÿÿÿ
+Njavascript:S1117ş",'vv' is already declared in the upper scope.(àŒ÷ıÿÿÿÿ
+ajavascript:S3358ÿ"DExtract this nested ternary operation into an independent statement.(Ğ¢³È
+Ojavascript:S1481æ"2Remove the declaration of the unused 't' variable.(¡˜Á
+Ljavascript:S1854æ"/Remove this useless assignment to variable "t".(¡˜Á
+qjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ŸÈö
+Njavascript:S1481š"2Remove the declaration of the unused 'v' variable.(·Ã˜o
+Kjavascript:S1854š"/Remove this useless assignment to variable "v".(·Ã˜o
+<javascript:S1186Î"Unexpected empty method 'left'.(™öÄ‰
+=javascript:S1186Ï" Unexpected empty method 'right'.(¹ÒöË
+Ijavascript:S1186•"'Unexpected empty method 'onBeforeLoad'.(÷‡Ëúÿÿÿÿ
+Ejavascript:S1186–"(Unexpected empty method 'onLoadSuccess'.(üÁœİ
+Cjavascript:S1186—"&Unexpected empty method 'onLoadError'.(¨•şÒ
+@javascript:S1186˜"#Unexpected empty method 'onSelect'.(È–î
+Gjavascript:S1186™"%Unexpected empty method 'onUnselect'.(ÑëîÉÿÿÿÿÿ

@@ -1,0 +1,34 @@
+
+?javascript:S11860"#Unexpected empty method 'onChange'.(€§îå
+7javascript:S11165"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116A"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116P"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116X"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116h"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116”"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+qjavascript:S3776•"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ê‹Àò
+ajavascript:S3358"DExtract this nested ternary operation into an independent statement.(µôø
+4javascript:S2685¥"Avoid arguments.callee.(‹˜ı±
+8javascript:S1116´"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116¾"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116¿"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Ã"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Ë"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Ó"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+qjavascript:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Äƒ–ğ
+ijavascript:S4138Ş"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(üµÙÕ
+Gjavascript:S1117î"+'i' is already declared in the upper scope.(Òïèn
+8javascript:S1116ı"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116„"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1186ˆ"Unexpected empty function.(¯¦½İ
+8javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+9javascript:S1186ë"Unexpected empty method 'up'.(öÕ­6
+<javascript:S1186ì"Unexpected empty method 'down'.(ùè–€
+<javascript:S1186í"Unexpected empty method 'left'.(¦èƒÚ
+Bjavascript:S1186î" Unexpected empty method 'right'.(¾ŞÍ¿ùÿÿÿÿ
+=javascript:S1186ï" Unexpected empty method 'enter'.(é„­î
+Bjavascript:S1186ğ" Unexpected empty method 'query'.(÷èíúÿÿÿÿ
+Cjavascript:S1186ñ"&Unexpected empty method 'onShowPanel'.(÷Ğı€
+Hjavascript:S1186ò"&Unexpected empty method 'onHidePanel'.(˜Œ¥®ûÿÿÿÿ
+@javascript:S1186ó"#Unexpected empty method 'onChange'.(Â®äŠ

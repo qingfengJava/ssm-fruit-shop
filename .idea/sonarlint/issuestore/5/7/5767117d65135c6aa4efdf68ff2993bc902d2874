@@ -1,0 +1,12 @@
+
+h
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(î¨¤²
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.( ½÷–ıÿÿÿÿ
+U
+java:S1128	":Remove this unused import 'com.fruit.utils.SystemContext'.(§àüºùÿÿÿÿ
+M
+java:S1128"8Remove this unused import 'org.apache.http.HttpRequest'.(Ÿÿ“
+s
+java:S1192s"^Define a constant instead of duplicating this literal "\\resource\\ueditor\\upload\\" 5 times.(úó”Z
+v
+java:S1192H"aDefine a constant instead of duplicating this literal "redirect: /item/findBySql.action" 3 times.(ª—

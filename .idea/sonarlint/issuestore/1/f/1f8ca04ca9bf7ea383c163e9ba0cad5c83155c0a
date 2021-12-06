@@ -1,0 +1,20 @@
+
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(à‡×Üþÿÿÿÿ
+Wjavascript:S3516K";Refactor this function to not always return the same value.(•õ¸
+Wjavascript:S3516u";Refactor this function to not always return the same value.(–Ô¶È
+Hjavascript:S1125z"'Remove the unnecessary boolean literal.(®•õÿÿÿÿÿ
+]javascript:S3516–";Refactor this function to not always return the same value.(’õÌ÷þÿÿÿÿ
+vjavascript:S3776–"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(’õÌ÷þÿÿÿÿ
+Djavascript:S1125¢"'Remove the unnecessary boolean literal.(Ù¢éÀ
+qjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(û­±š
+ajavascript:S3358"DExtract this nested ternary operation into an independent statement.(»ÆË¯
+Kjavascript:S1117".'opts' is already declared in the upper scope.(º›ÕÞ
+Djavascript:S1125¦"'Remove the unnecessary boolean literal.(É¿Âø
+Kjavascript:S1117¼".'opts' is already declared in the upper scope.(º›ÕÞ
+Djavascript:S1125½"'Remove the unnecessary boolean literal.(­èüã
+Ljavascript:S1117Ì"/'state' is already declared in the upper scope.(ƒÕœ–
+Mjavascript:S1117Í"0'handle' is already declared in the upper scope.(·“èÜ
+Djavascript:S1186…"'Unexpected empty method 'onBeforeDrag'.(·øÑŸ
+Hjavascript:S1186†"&Unexpected empty method 'onStartDrag'.(¶žáÜýÿÿÿÿ
+>javascript:S1186‡"!Unexpected empty method 'onDrag'.(¹±‘ú
+Ajavascript:S1186ˆ"%Unexpected empty method 'onStopDrag'.(‘±ÎT

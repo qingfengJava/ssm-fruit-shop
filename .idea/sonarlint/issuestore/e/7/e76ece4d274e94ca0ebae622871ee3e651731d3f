@@ -1,0 +1,13 @@
+
+pjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ˆè²Ô
+xjavascript:S2703"\Add the "let", "const" or "var" keyword to this declaration of "dialog" to make it explicit.( ÷ÇÈ
+xjavascript:S2703"\Add the "let", "const" or "var" keyword to this declaration of "editor" to make it explicit.(ˆÝ½Û
+yjavascript:S2703"XAdd the "let", "const" or "var" keyword to this declaration of "UE" to make it explicit.(…òÉÚûÿÿÿÿ
+javascript:S2703
+"^Add the "let", "const" or "var" keyword to this declaration of "domUtils" to make it explicit.(ßÃý·ùÿÿÿÿ
+|javascript:S2703"[Add the "let", "const" or "var" keyword to this declaration of "utils" to make it explicit.(”ó®½ÿÿÿÿÿ
+vjavascript:S2703"ZAdd the "let", "const" or "var" keyword to this declaration of "ajax" to make it explicit.(˜º›Ö
+tjavascript:S2703"XAdd the "let", "const" or "var" keyword to this declaration of "$G" to make it explicit.(Šõ…µ
+xjavascript:S2703"\Add the "let", "const" or "var" keyword to this declaration of "$focus" to make it explicit.(ÝôôŸ
+vjavascript:S2703'"ZAdd the "let", "const" or "var" keyword to this declaration of "lang" to make it explicit.(ùªÀ‘
+Pjavascript:S1121A"4Extract the assignment of "oj" from this expression.(§óòÄ

@@ -1,0 +1,17 @@
+
+mjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(²ûú«ÿÿÿÿÿ
+mjavascript:S4138<"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(²ûú«ÿÿÿÿÿ
+qjavascript:S3776e"URefactor this function to reduce its Cognitive Complexity from 109 to the 15 allowed.(¡€ß‘
+`javascript:S1481r"?Remove the declaration of the unused '$filePickerBtn' variable.(˜ï¡²úÿÿÿÿ
+]javascript:S1854r"<Remove this useless assignment to variable "$filePickerBtn".(˜ï¡²úÿÿÿÿ
+Kjavascript:S1854"/Remove this useless assignment to variable "s".(ã·.
+8javascript:S1116”"Unnecessary semicolon.(¬µÏ®øÿÿÿÿ
+Ljavascript:S1117Á"/'$wrap' is already declared in the upper scope.(´‘Ï´
+Qjavascript:S1117Â"/'$info' is already declared in the upper scope.(õÇ£ÿÿÿÿÿ
+wjavascript:S2703Ç"ZAdd the "let", "const" or "var" keyword to this declaration of "text" to make it explicit.(ÜšÔˆ
+2javascript:S108"Empty block statement.(„ùª®
+7javascript:S1186„"Unexpected empty function.(©õ‘å
+<javascript:S1186‹"Unexpected empty function.(£ÃÃ‚ûÿÿÿÿ
+Xjavascript:S1121¡"6Extract the assignment of "file" from this expression.(ÿ£áüÿÿÿÿ
+pjavascript:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ôÁ¼`
+Qjavascript:S1481"4Remove the declaration of the unused 'img' variable.(´žµÃ

@@ -1,0 +1,26 @@
+
+qjavascript:S3776
+"URefactor this function to reduce its Cognitive Complexity from 107 to the 15 allowed.(ˆè²Ô
+7javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116&"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S11161"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+5javascript:S2814;"'url' is already defined.(–¸“´
+5javascript:S2814E"'url' is already defined.(µßÅ
+:javascript:S2814G"'url' is already defined.(‹‚ì«øÿÿÿÿ
+7javascript:S1116U"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116V"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+mjavascript:S4138]"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ª…©èûÿÿÿÿ
+Ljavascript:S1117]"+'i' is already declared in the upper scope.(ª…©èûÿÿÿÿ
+mjavascript:S4138g"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Îáêûÿÿÿÿ
+Ljavascript:S1117g"+'i' is already declared in the upper scope.(Îáêûÿÿÿÿ
+7javascript:S1116l"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116r"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Gjavascript:S1117v"+'m' is already declared in the upper scope.(©Êˆ×
+4javascript:S2685„"Avoid arguments.callee.(šÑÖ
+Djavascript:S1125‰"'Remove the unnecessary boolean literal.(³ØøÔ
+8javascript:S1116’"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116”"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+|javascript:S2703•"`Add the "let", "const" or "var" keyword to this declaration of "easyloader" to make it explicit.(ƒé–{
+Bjavascript:S1186§"%Unexpected empty method 'onProgress'.(¤éÃ
+Cjavascript:S1186¨"!Unexpected empty method 'onLoad'.(¡Í§Şüÿÿÿÿ
+njavascript:S4138«"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(½™á­şÿÿÿÿ

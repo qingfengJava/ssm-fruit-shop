@@ -1,0 +1,16 @@
+
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(úÇ¢Çøÿÿÿÿ
+Gjavascript:S1117"+'c' is already declared in the upper scope.(ºˆô¶
+7javascript:S1116>"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116M"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Mjavascript:S1117P",'cc' is already declared in the upper scope.(Ìó Ìşÿÿÿÿ
+7javascript:S1116\"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116]"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116`"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116i"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116w"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+9javascript:S1186­"Unexpected empty method 'up'.(ºëÁs
+<javascript:S1186®"Unexpected empty method 'down'.(ùè–€
+<javascript:S1186¯"Unexpected empty method 'left'.(¦èƒÚ
+Bjavascript:S1186°" Unexpected empty method 'right'.(¾ŞÍ¿ùÿÿÿÿ
+@javascript:S1186Ñ"#Unexpected empty method 'onSelect'.(¥¥¢¡

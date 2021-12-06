@@ -1,0 +1,25 @@
+
+Wjavascript:S1481"6Remove the declaration of the unused 'video' variable.(Ÿ…’¨üÿÿÿÿ
+mjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(²ûú«ÿÿÿÿÿ
+-javascript:S1763P"Unreachable code.(›ûä·
+-javascript:S1763S"Unreachable code.(›ûä·
+-javascript:S1763V"Unreachable code.(›ûä·
+Ujavascript:S1121d"4Extract the assignment of "ci" from this expression.(Ï–¿Ìÿÿÿÿÿ
+Wjavascript:S1121Š"5Extract the assignment of "img" from this expression.(£ç’Èşÿÿÿÿ
+Vjavascript:S1121Ÿ"4Extract the assignment of "ci" from this expression.(“È¶Šúÿÿÿÿ
+Qjavascript:S1121¿"4Extract the assignment of "ci" from this expression.(İäŸŠ
+Qjavascript:S1121Ø"4Extract the assignment of "ci" from this expression.(‡©ÆÏ
+Vjavascript:S1121í"4Extract the assignment of "ci" from this expression.(Á¦Óøÿÿÿÿ
+Qjavascript:S1121ï"4Extract the assignment of "cj" from this expression.(µ¹Ì
+rjavascript:S3776Ì"URefactor this function to reduce its Cognitive Complexity from 110 to the 15 allowed.(¡€ß‘
+ajavascript:S1481Ù"?Remove the declaration of the unused '$filePickerBtn' variable.(˜ï¡²úÿÿÿÿ
+^javascript:S1854Ù"<Remove this useless assignment to variable "$filePickerBtn".(˜ï¡²úÿÿÿÿ
+Kjavascript:S1854ô"/Remove this useless assignment to variable "s".(ã·.
+8javascript:S1116û"Unnecessary semicolon.(Ò©³øÿÿÿÿ
+Ljavascript:S1117¨"/'$wrap' is already declared in the upper scope.(´‘Ï´
+Qjavascript:S1117©"/'$info' is already declared in the upper scope.(õÇ£ÿÿÿÿÿ
+wjavascript:S2703®"ZAdd the "let", "const" or "var" keyword to this declaration of "text" to make it explicit.(ÜšÔˆ
+2javascript:S108ô"Empty block statement.(„ùª®
+7javascript:S1186ï"Unexpected empty function.(©õ‘å
+<javascript:S1186ö"Unexpected empty function.(£ÃÃ‚ûÿÿÿÿ
+Xjavascript:S1121Œ"6Extract the assignment of "file" from this expression.(ÿ£áüÿÿÿÿ

@@ -1,0 +1,81 @@
+
+qjavascript:S3776"URefactor this function to reduce its Cognitive Complexity from 201 to the 15 allowed.(İ³¢„
+Gjavascript:S1117"+'e' is already declared in the upper scope.(ù¢¤Ê
+7javascript:S1116*"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+ˆjavascript:S2703?"gAdd the "let", "const" or "var" keyword to this declaration of "$checkplaceholder" to make it explicit.(Ïİ²ÿüÿÿÿÿ
+1javascript:S1116F"Unnecessary semicolon.(Îµ»D
+7javascript:S1116O"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+‚javascript:S2703P"fAdd the "let", "const" or "var" keyword to this declaration of "$showplaceholder" to make it explicit.(òº¸ù
+mjavascript:S4138h"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(´©Êüÿÿÿÿ
+7javascript:S1116o"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+„javascript:S2703{"cAdd the "let", "const" or "var" keyword to this declaration of "$pintuercheck" to make it explicit.(èœÜıÿÿÿÿ
+}javascript:S2703|"\Add the "let", "const" or "var" keyword to this declaration of "$pintu" to make it explicit.(˜‘³Àÿÿÿÿÿ
+Kjavascript:S5869~"*Remove duplicates in this character class.(“õšˆøÿÿÿÿ
+2javascript:S1763~"Unreachable code.(“õšˆøÿÿÿÿ
+-javascript:S1763"Unreachable code.(Á÷Ÿğ
+3javascript:S1763€"Unreachable code.(«·Â·ÿÿÿÿÿ
+3javascript:S1763"Unreachable code.(á²àŞşÿÿÿÿ
+3javascript:S1763‚"Unreachable code.(·Ì„„úÿÿÿÿ
+3javascript:S1763ƒ"Unreachable code.(èØç…ıÿÿÿÿ
+.javascript:S1763„"Unreachable code.(êÓƒò
+3javascript:S1763…"Unreachable code.(âË«Öşÿÿÿÿ
+.javascript:S1763†"Unreachable code.(•ÚñÜ
+vjavascript:S5843‡"TSimplify this regular expression to reduce its complexity from 26 to the 20 allowed.(Æş’ùÿÿÿÿ
+]javascript:S6353‡";Use concise character class syntax '\d' instead of '[0-9]'.(Æş’ùÿÿÿÿ
+^javascript:S6019‡"<Remove the '?' from this unnecessarily reluctant quantifier.(Æş’ùÿÿÿÿ
+^javascript:S6019‡"<Remove the '?' from this unnecessarily reluctant quantifier.(Æş’ùÿÿÿÿ
+^javascript:S6019‡"<Remove the '?' from this unnecessarily reluctant quantifier.(Æş’ùÿÿÿÿ
+^javascript:S6019‡"<Remove the '?' from this unnecessarily reluctant quantifier.(Æş’ùÿÿÿÿ
+3javascript:S1763‡"Unreachable code.(Æş’ùÿÿÿÿ
+vjavascript:S5843ˆ"TSimplify this regular expression to reduce its complexity from 23 to the 20 allowed.(“•şÉÿÿÿÿÿ
+3javascript:S1763ˆ"Unreachable code.(“•şÉÿÿÿÿÿ
+vjavascript:S5843‰"TSimplify this regular expression to reduce its complexity from 26 to the 20 allowed.(»€Â©øÿÿÿÿ
+]javascript:S6353‰";Use concise character class syntax '\d' instead of '[0-9]'.(»€Â©øÿÿÿÿ
+^javascript:S6019‰"<Remove the '?' from this unnecessarily reluctant quantifier.(»€Â©øÿÿÿÿ
+^javascript:S6019‰"<Remove the '?' from this unnecessarily reluctant quantifier.(»€Â©øÿÿÿÿ
+^javascript:S6019‰"<Remove the '?' from this unnecessarily reluctant quantifier.(»€Â©øÿÿÿÿ
+^javascript:S6019‰"<Remove the '?' from this unnecessarily reluctant quantifier.(»€Â©øÿÿÿÿ
+vjavascript:S5843‰"TSimplify this regular expression to reduce its complexity from 23 to the 20 allowed.(»€Â©øÿÿÿÿ
+3javascript:S1763‰"Unreachable code.(»€Â©øÿÿÿÿ
+3javascript:S1763Š"Unreachable code.(Õ€›îúÿÿÿÿ
+Gjavascript:S5869‹"*Remove duplicates in this character class.(“‡¬î
+.javascript:S1763‹"Unreachable code.(“‡¬î
+3javascript:S1763Œ"Unreachable code.(§ƒæùÿÿÿÿ
+.javascript:S1763"Unreachable code.(·ï’Ø
+.javascript:S1763"Unreachable code.(­ä¦Î
+3javascript:S1763"Unreachable code.(°×¯¿ıÿÿÿÿ
+.javascript:S1763“"Unreachable code.(›ûä·
+.javascript:S1763š"Unreachable code.(›ûä·
+.javascript:S1763"Unreachable code.(›ûä·
+.javascript:S1763¦"Unreachable code.(›ûä·
+;javascript:S125¬"Remove this commented out code.(ïÒ‚¬
+.javascript:S1763³"Unreachable code.(›ûä·
+3javascript:S1763´"Unreachable code.( ò„şÿÿÿÿ
+javascript:S2703Ü"_Add the "let", "const" or "var" keyword to this declaration of "$showtabs" to make it explicit.(Á¡”Æşÿÿÿÿ
+„javascript:S2703ğ"bAdd the "let", "const" or "var" keyword to this declaration of "$showdialogs" to make it explicit.(üùşÿÿÿÿ
+Ujavascript:S1481ñ"8Remove the declaration of the unused 'trigger' variable.(”½·ƒ
+Rjavascript:S1854ñ"5Remove this useless assignment to variable "trigger".(”½·ƒ
+;javascript:S125€"Remove this commented out code.(‡Î¿
+javascript:S2703©"_Add the "let", "const" or "var" keyword to this declaration of "$showtips" to make it explicit.(ƒ ×÷øÿÿÿÿ
+8javascript:S1116ì"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Š"Unnecessary semicolon.(µıóËıÿÿÿÿ
+8javascript:S1116‹"Unnecessary semicolon.(áèùşÿÿÿÿ
+3javascript:S1116Œ"Unnecessary semicolon.(œ¨â
+8javascript:S1116"Unnecessary semicolon.(®¾ò´ûÿÿÿÿ
+3javascript:S1116"Unnecessary semicolon.(â—ÉÙ
+8javascript:S1116£"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116¦"Unnecessary semicolon.(ìÄËıÿÿÿÿ
+3javascript:S1116®"Unnecessary semicolon.(Û„ş”
+zjavascript:S4144·"XUpdate this function so that its implementation is not identical to the one on line 405.(Ì²ûàøÿÿÿÿ
+8javascript:S1116¼"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+}javascript:S2703¾"aAdd the "let", "const" or "var" keyword to this declaration of "$showbanner" to make it explicit.(Ëƒô^
+Ujavascript:S1854Á"3Remove this useless assignment to variable "after".(Óˆ´şÿÿÿÿ
+8javascript:S1116Á"Unnecessary semicolon.(Óˆ´şÿÿÿÿ
+3javascript:S1116Í"Unnecessary semicolon.(‘Š¢ñ
+3javascript:S1116Î"Unnecessary semicolon.(î¨
+8javascript:S1116Õ"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Ú"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+3javascript:S1116â"Unnecessary semicolon.(«Å²
+8javascript:S1116ã"Unnecessary semicolon.(®¸³ƒıÿÿÿÿ
+8javascript:S1116ë"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116ò"Unnecessary semicolon.(ôŸìúÿÿÿÿ

@@ -1,0 +1,17 @@
+
+pjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 97 to the 15 allowed.(ˆè²Ô
+6javascript:S2814 "'url' is already defined.(ØÆµ²
+6javascript:S2814«"'url' is already defined.(¼£¥
+6javascript:S2814­"'url' is already defined.(¥…ªø
+njavascript:S4138Æ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ÿ§ÕŒşÿÿÿÿ
+Mjavascript:S1117Æ"+'i' is already declared in the upper scope.(Ÿ§ÕŒşÿÿÿÿ
+Kjavascript:S1117Ë".'name' is already declared in the upper scope.(‘–ÔÜ
+njavascript:S4138Ï"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Îáêûÿÿÿÿ
+Mjavascript:S1117Ï"+'i' is already declared in the upper scope.(Îáêûÿÿÿÿ
+Hjavascript:S1117à"+'m' is already declared in the upper scope.(ö»·µ
+4javascript:S2685í"Avoid arguments.callee.(šÑÖ
+Djavascript:S1125ñ"'Remove the unnecessary boolean literal.(§µ‚±
+}javascript:S2703ÿ"`Add the "let", "const" or "var" keyword to this declaration of "easyloader" to make it explicit.(ì–ùı
+Bjavascript:S1186›"%Unexpected empty method 'onProgress'.(¨Œ
+Cjavascript:S1186œ"!Unexpected empty method 'onLoad'.(«ùÅĞşÿÿÿÿ
+ijavascript:S4138 "LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(×ç¢Æ

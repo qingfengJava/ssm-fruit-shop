@@ -1,0 +1,45 @@
+
+T
+java:S1854"8Remove this useless assignment to local variable "sort".(’½º–ùÿÿÿÿ
+U
+java:S1854Œ"9Remove this useless assignment to local variable "order".(·…õûÿÿÿÿ
+F
+java:S1481Œ"*Remove this unused "order" local variable.(·…õûÿÿÿÿ
+E
+java:S1481")Remove this unused "sort" local variable.(’½º–ùÿÿÿÿ
+j
+java:S3252”"NUse static access with "com.github.pagehelper.BasePageHelper" for "startPage".(çø¤ÿÿÿÿÿ
+T
+java:S1854§"8Remove this useless assignment to local variable "sort".(’½º–ùÿÿÿÿ
+U
+java:S1854¦"9Remove this useless assignment to local variable "order".(·…õûÿÿÿÿ
+F
+java:S1481¦"*Remove this unused "order" local variable.(·…õûÿÿÿÿ
+E
+java:S1481§")Remove this unused "sort" local variable.(’½º–ùÿÿÿÿ
+j
+java:S3252®"NUse static access with "com.github.pagehelper.BasePageHelper" for "startPage".(çø¤ÿÿÿÿÿ
+T
+java:S1854ø"8Remove this useless assignment to local variable "sort".(’½º–ùÿÿÿÿ
+U
+java:S1854÷"9Remove this useless assignment to local variable "order".(·…õûÿÿÿÿ
+F
+java:S1481÷"*Remove this unused "order" local variable.(·…õûÿÿÿÿ
+E
+java:S1481ø")Remove this unused "sort" local variable.(’½º–ùÿÿÿÿ
+j
+java:S3252ÿ"NUse static access with "com.github.pagehelper.BasePageHelper" for "startPage".(çø¤ÿÿÿÿÿ
+F
+java:S1068"+Remove this unused "baseDao" private field.(ŸŸ°”øÿÿÿÿ
+p
+java:S2293•"YReplace the type specification in this constructor call with the diamond operator ("<>").(³øÇ˜
+p
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(Øó®¹
+p
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(­øÕñ
+t
+java:S1488•"]Immediately return this expression instead of assigning it to the temporary variable "pages".(³øÇ˜
+t
+java:S1488¯"]Immediately return this expression instead of assigning it to the temporary variable "pages".(Øó®¹
+t
+java:S1488€"]Immediately return this expression instead of assigning it to the temporary variable "pages".(­øÕñ

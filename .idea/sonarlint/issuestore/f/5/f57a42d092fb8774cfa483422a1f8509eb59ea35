@@ -1,0 +1,22 @@
+
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 96 to the 15 allowed.(úÇ¢Çøÿÿÿÿ
+hjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¸õÈ¬
+hjavascript:S4138'"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ŒÌÏÄ
+hjavascript:S4138Y"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(áÿÖá
+3javascript:S2814Y"'i' is already defined.(áÿÖá
+;javascript:S1186`"Unexpected empty function.(øŒŞıÿÿÿÿÿ
+3javascript:S2814f"'td' is already defined.(Ãœá%
+Gjavascript:S1117n"+'a' is already declared in the upper scope.(Ğ£”Ÿ
+7javascript:S1116t"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Hjavascript:S1117u",'aa' is already declared in the upper scope.(“‹
+7javascript:S1116{"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116|"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+vjavascript:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(È¥¸¿şÿÿÿÿ
+8javascript:S1116Ê"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Ò"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Ijavascript:S1186ü"'Unexpected empty method 'onSelectPage'.(£åû¡ıÿÿÿÿ
+Ljavascript:S1186ı"*Unexpected empty method 'onBeforeRefresh'.(šÚ£Ûÿÿÿÿÿ
+Ajavascript:S1186ş"$Unexpected empty method 'onRefresh'.(è»ã³
+Mjavascript:S1186ÿ"+Unexpected empty method 'onChangePageSize'.(Îá¹°şÿÿÿÿ
+Ijavascript:S1125˜"'Remove the unnecessary boolean literal.(Æù…ıÿÿÿÿ

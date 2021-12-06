@@ -1,0 +1,5 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(•ž»Ãÿÿÿÿÿ
+GWeb:BoldAndItalicTagsCheck6"!Replace this <b> tag by <strong>.(·ºµË
+B	Web:S1827;"-Remove this deprecated "scrolling" attribute.(º¿ÔÐ
+SWeb:FrameWithoutTitleCheck;"-Add a "title" attribute to this <iframe> tag.(º¿ÔÐ

@@ -1,0 +1,14 @@
+
+ujavascript:S3776	"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(Ğ…Ìäüÿÿÿÿ
+~javascript:S2703!"]Add the "let", "const" or "var" keyword to this declaration of "leftpos" to make it explicit.(Äœ¹ôÿÿÿÿÿ
+wjavascript:S2703-"[Add the "let", "const" or "var" keyword to this declaration of "mouse" to make it explicit.(ÄšÕÅ
+ojavascript:S15292"SReview this use of bitwise "|" operator; conditional "||" might have been intended.(ŠĞ¢ø
+8javascript:S28143"'scalex' is already defined.(¯¦Ô
+=javascript:S28144"'scaley' is already defined.(üÜ•Úúÿÿÿÿ
+{javascript:S27039"ZAdd the "let", "const" or "var" keyword to this declaration of "xpos" to make it explicit.(íõæşÿÿÿÿ
+{javascript:S2703:"ZAdd the "let", "const" or "var" keyword to this declaration of "ypos" to make it explicit.(€¸Ä™úÿÿÿÿ
+`javascript:S3358<"DExtract this nested ternary operation into an independent statement.(Î˜‘
+`javascript:S3358="DExtract this nested ternary operation into an independent statement.(ĞíáÌ
+yjavascript:S2703@"]Add the "let", "const" or "var" keyword to this declaration of "scrolly" to make it explicit.(‹ÿÆ‘
+~javascript:S2703B"]Add the "let", "const" or "var" keyword to this declaration of "scrollx" to make it explicit.(…ûş“ûÿÿÿÿ
+|javascript:S2703I"[Add the "let", "const" or "var" keyword to this declaration of "count" to make it explicit.(¢™Œ½üÿÿÿÿ

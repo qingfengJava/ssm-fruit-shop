@@ -1,0 +1,7 @@
+
+V	java:S125:"<This block of commented-out lines of code should be removed.(¢Š¤ÿÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(¬“Àñÿÿÿÿÿ
+k
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àıÿÿÿÿ
+o
+java:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃéÈ»

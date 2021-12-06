@@ -1,0 +1,66 @@
+
+7javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S11161"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116C"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116O"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+ujavascript:S3776P"TRefactor this function to reduce its Cognitive Complexity from 68 to the 15 allowed.(„é© úÿÿÿÿ
+Cjavascript:S1125’"'Remove the unnecessary boolean literal.(ÿ‹Ì
+Djavascript:S1125 "'Remove the unnecessary boolean literal.(Å ¸
+8javascript:S1116¯"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116³"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116¼"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116½"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Cjavascript:S1125É"'Remove the unnecessary boolean literal.(†ÛY
+8javascript:S1116Ü"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116ï"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116ò"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Djavascript:S1125ö"'Remove the unnecessary boolean literal.(³¾˜ğ
+Ijavascript:S1125÷"'Remove the unnecessary boolean literal.(‘ôƒ©úÿÿÿÿ
+Ijavascript:S1125–"'Remove the unnecessary boolean literal.(××€Àùÿÿÿÿ
+Djavascript:S1125š"'Remove the unnecessary boolean literal.(ƒ–‹
+8javascript:S1116¢"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116£"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Ijavascript:S1125¨"'Remove the unnecessary boolean literal.(‚¦¾ƒıÿÿÿÿ
+Djavascript:S1125©"'Remove the unnecessary boolean literal.(ÏÈÅ
+8javascript:S1116Ç"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116È"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Djavascript:S1125Í"'Remove the unnecessary boolean literal.(Èâ†•
+Cjavascript:S1125Î"'Remove the unnecessary boolean literal.(²óó
+8javascript:S1116Õ"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Djavascript:S1125Û"'Remove the unnecessary boolean literal.(“µş·
+Djavascript:S1125ß"'Remove the unnecessary boolean literal.(»ÇÁ©
+Djavascript:S1125ã"'Remove the unnecessary boolean literal.(ø‘„³
+8javascript:S1116í"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Djavascript:S1125ó"'Remove the unnecessary boolean literal.(ıĞˆ¾
+Ijavascript:S1125÷"'Remove the unnecessary boolean literal.(ÁøÒıÿÿÿÿÿ
+Djavascript:S1125û"'Remove the unnecessary boolean literal.(´äØ
+8javascript:S1116‰"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Djavascript:S1125"'Remove the unnecessary boolean literal.(ºÈğî
+8javascript:S1116œ"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116¥"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Djavascript:S1125ª"'Remove the unnecessary boolean literal.(½¶Ò˜
+8javascript:S1116µ"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116¹"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Cjavascript:S1125Ş"'Remove the unnecessary boolean literal.(…”
+Ijavascript:S1125â"'Remove the unnecessary boolean literal.(œ˜ÌÎıÿÿÿÿ
+Ijavascript:S1125â"'Remove the unnecessary boolean literal.(œ˜ÌÎıÿÿÿÿ
+8javascript:S1116¨"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+2javascript:S1534É"Duplicate key 'href'.(‚ÁËÛ
+Ijavascript:S1186Û"'Unexpected empty method 'onBeforeLoad'.(¢ì‚‰úÿÿÿÿ
+>javascript:S1186Ü"!Unexpected empty method 'onLoad'.(©¨Šˆ
+Hjavascript:S1186İ"&Unexpected empty method 'onLoadError'.(¦Ù¥—ıÿÿÿÿ
+Ijavascript:S1186Ş"'Unexpected empty method 'onBeforeOpen'.(™ÏƒÔúÿÿÿÿ
+>javascript:S1186ß"!Unexpected empty method 'onOpen'.(•üµ
+Ejavascript:S1186à"(Unexpected empty method 'onBeforeClose'.(ôßõ
+>javascript:S1186á""Unexpected empty method 'onClose'.(üÚµP
+Gjavascript:S1186â"*Unexpected empty method 'onBeforeDestroy'.(ƒ†ªÉ
+Ajavascript:S1186ã"$Unexpected empty method 'onDestroy'.(·ÄÊÃ
+Ejavascript:S1186ä"#Unexpected empty method 'onResize'.(ÅÜò¿ıÿÿÿÿ
+Cjavascript:S1186å"!Unexpected empty method 'onMove'.(ìÉ·şşÿÿÿÿ
+Gjavascript:S1186æ"%Unexpected empty method 'onMaximize'.(õªßÌøÿÿÿÿ
+Ajavascript:S1186ç"$Unexpected empty method 'onRestore'.(•©‘î
+Gjavascript:S1186è"%Unexpected empty method 'onMinimize'.(¡”ĞÉüÿÿÿÿ
+Mjavascript:S1186é"+Unexpected empty method 'onBeforeCollapse'.(¿±Şøúÿÿÿÿ
+Kjavascript:S1186ê")Unexpected empty method 'onBeforeExpand'.(ö²å½øÿÿÿÿ
+Bjavascript:S1186ë"%Unexpected empty method 'onCollapse'.(¿Ô«÷
+Ejavascript:S1186ì"#Unexpected empty method 'onExpand'.(…·üúÿÿÿÿ

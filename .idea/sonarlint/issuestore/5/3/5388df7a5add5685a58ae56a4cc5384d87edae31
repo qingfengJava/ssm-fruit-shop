@@ -1,0 +1,137 @@
+
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(ï¾ã¾üÿÿÿÿ
+Pjavascript:S1117³".'bits' is already declared in the upper scope.(·ıªùÿÿÿÿ
+Pjavascript:S1117¾".'bits' is already declared in the upper scope.(·ıªùÿÿÿÿ
+Pjavascript:S1117É".'bits' is already declared in the upper scope.(·ıªùÿÿÿÿ
+ijavascript:S4138Ô"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Í›£’
+{javascript:S2703Ù"^Add the "let", "const" or "var" keyword to this declaration of "channels" to make it explicit.(¤Ø«å
+ajavascript:S3358ã"DExtract this nested ternary operation into an independent statement.(…–Ìñ
+ajavascript:S3358ä"DExtract this nested ternary operation into an independent statement.(áÂŒÜ
+ajavascript:S3358å"DExtract this nested ternary operation into an independent statement.(€Ò®³
+ijavascript:S4138ú"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Í›£’
+Hjavascript:S1117ú"+'i' is already declared in the upper scope.(Í›£’
+ijavascript:S4138ü"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(§šõØ
+ijavascript:S4138‡"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(÷Ú”«
+4javascript:S2814‡"'i' is already defined.(÷Ú”«
+7javascript:S1186­"Unexpected empty function.(Š¥ôĞ
+7javascript:S1186®"Unexpected empty function.(³·™Ğ
+njavascript:S4138Ğ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ã–·ôùÿÿÿÿ
+rjavascript:S3776ş"VRefactor this function to reduce its Cognitive Complexity from 1439 to the 15 allowed.(Ø…Óa
+ijavascript:S4138Ÿ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ìù‚Ğ
+qjavascript:S5850¦"TGroup parts of the regex together to make the intended operator precedence explicit.(±Ç¥
+Ljavascript:S5869©"*Remove duplicates in this character class.(Ô¯Àòüÿÿÿÿ
+Pjavascript:S1117ü".'name' is already declared in the upper scope.(ÓÙ¦ıÿÿÿÿ
+Vjavascript:S1135˜"4Complete the task associated to this "TODO" comment.(ó¥°íûÿÿÿÿ
+njavascript:S4138ç"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Îáêûÿÿÿÿ
+˜javascript:S2681è"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(±àï”
+javascript:S2681é"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(’Óİßøÿÿÿÿ
+˜javascript:S2681ê"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(Ï‚£Â
+˜javascript:S2681ë"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÅÌãÙ
+Wjavascript:S107Å";Function has too many parameters (8). Maximum allowed is 7.(´’Úæ
+tjavascript:S2703Ë"WAdd the "let", "const" or "var" keyword to this declaration of "i" to make it explicit.(¬ëè
+Hjavascript:S1117Ì"+'t' is already declared in the upper scope.(Ä¦òÀ
+Hjavascript:S1117ş"+'s' is already declared in the upper scope.(Ÿ÷Ø‹
+Mjavascript:S1117‰"+'s' is already declared in the upper scope.(Õ±™üÿÿÿÿ
+Hjavascript:S1117”"+'a' is already declared in the upper scope.(ï­
+Hjavascript:S1117›"+'s' is already declared in the upper scope.(ÛÁ˜¢
+Mjavascript:S1117¥"+'s' is already declared in the upper scope.(úá…úüÿÿÿÿ
+Mjavascript:S1117¯"+'s' is already declared in the upper scope.(îâŞæüÿÿÿÿ
+Hjavascript:S1117¶"+'s' is already declared in the upper scope.(Å¼ƒÕ
+Mjavascript:S1117½"+'s' is already declared in the upper scope.(Ö°ˆ—ıÿÿÿÿ
+ijavascript:S4138Ç"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(€¤ ×
+Hjavascript:S1117Ç"+'i' is already declared in the upper scope.(€¤ ×
+ijavascript:S4138Í"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(€¤ ×
+Hjavascript:S1117Í"+'i' is already declared in the upper scope.(€¤ ×
+njavascript:S4138Ó"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ñ¸ğˆÿÿÿÿÿ
+]javascript:S107Ü"<Function has too many parameters (10). Maximum allowed is 7.(µ”ü¸ÿÿÿÿÿ
+Kjavascript:S1117Š".'name' is already declared in the upper scope.(šÃŠŒ
+Djavascript:S1125"'Remove the unnecessary boolean literal.(úÏ±İ
+Kjavascript:S1117”".'name' is already declared in the upper scope.(™¹ÅÄ
+Djavascript:S1125¦"'Remove the unnecessary boolean literal.(ğ‚ÇÙ
+ijavascript:S4138Î"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ªëñê
+Hjavascript:S1117Î"+'i' is already declared in the upper scope.(ªëñê
+Ujavascript:S1117Ó"3'childNode' is already declared in the upper scope.(äÆİ®şÿÿÿÿ
+hjavascript:S4138Ü"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¼à¹
+njavascript:S4138â"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¶µğ ıÿÿÿÿ
+9javascript:S2814â"'i' is already defined.(¶µğ ıÿÿÿÿ
+ijavascript:S4138ò"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(£ø¶İ
+7javascript:S2814õ"'name' is already defined.(™¬­Ğ
+7javascript:S2814û"'name' is already defined.(™¬­Ğ
+>javascript:S2814„"'styles' is already defined.(¹ĞıÜûÿÿÿÿ
+ijavascript:S4138…"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(êƒ»š
+4javascript:S2814…"'i' is already defined.(êƒ»š
+7javascript:S2814ˆ"'name' is already defined.(²æ¶â
+5javascript:S2814ª"'fs' is already defined.(Ó‚š‰
+9javascript:S2814ë"'marker' is already defined.(õ¼éä
+>javascript:S2814ñ"'marker' is already defined.(ÓÑüàøÿÿÿÿ
+Qjavascript:S1135ò
+"4Complete the task associated to this "TODO" comment.(šĞó
+Xjavascript:S6353ø
+";Use concise character class syntax '\d' instead of '[0-9]'.(å¨››
+Xjavascript:S6353ù
+";Use concise character class syntax '\d' instead of '[0-9]'.(ÆáÙú
+Xjavascript:S6353ú
+";Use concise character class syntax '\d' instead of '[0-9]'.(©Ôó‚
+Hjavascript:S1117ı
+"+'d' is already declared in the upper scope.(ù³‚‰
+{javascript:S1488½"YImmediately return this expression instead of assigning it to the temporary variable "p".(ø”Ğ„øÿÿÿÿ
+4javascript:S2814ö"'p' is already defined.(ñŞë²
+4javascript:S2814ÿ"'p' is already defined.(ñŞë²
+7javascript:S2814"'newP' is already defined.(ÖƒĞà
+<javascript:S2814¤"'curr' is already defined.(©”ĞÇşÿÿÿÿ
+4javascript:S2814¥"'p1' is already defined.(˜³Š
+=javascript:S2814¦"'cntrl' is already defined.(ÊÏ”Úûÿÿÿÿ
+:javascript:S2814§"'cp' is already defined.(ì‚öƒûÿÿÿÿ
+<javascript:S2814¯"'curr' is already defined.(©”ĞÇşÿÿÿÿ
+=javascript:S2814°"'cntrl' is already defined.(ÊÏ”Úûÿÿÿÿ
+:javascript:S2814±"'cp' is already defined.(ì‚öƒûÿÿÿÿ
+<javascript:S2814¹"'curr' is already defined.(©”ĞÇşÿÿÿÿ
+=javascript:S2814º"'cntrl' is already defined.(»ø®üÿÿÿÿ
+:javascript:S2814¼"'cp' is already defined.(ì‚öƒûÿÿÿÿ
+<javascript:S2814Ä"'curr' is already defined.(©”ĞÇşÿÿÿÿ
+:javascript:S2814Ê"'cp' is already defined.(ì‚öƒûÿÿÿÿ
+Hjavascript:S1117æ"+'v' is already declared in the upper scope.(©œÖó
+ajavascript:S1515è"?Make sure this function is not called after the loop completes.(¡†Çäıÿÿÿÿ
+Mjavascript:S1117è"+'u' is already declared in the upper scope.(¡†Çäıÿÿÿÿ
+Mjavascript:S1117è"+'v' is already declared in the upper scope.(¡†Çäıÿÿÿÿ
+ajavascript:S1515ê"?Make sure this function is not called after the loop completes.(åù±Ãüÿÿÿÿ
+Mjavascript:S1117ê"+'u' is already declared in the upper scope.(åù±Ãüÿÿÿÿ
+Mjavascript:S1117ê"+'v' is already declared in the upper scope.(åù±Ãüÿÿÿÿ
+Vjavascript:S1135ÿ"4Complete the task associated to this "TODO" comment.(ÚšÒÿûÿÿÿÿ
+9javascript:S2814"'r' is already defined.(¿¢Áéúÿÿÿÿ
+ijavascript:S4138ğ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ªëñê
+ijavascript:S4138€"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ìªÑö
+Hjavascript:S1117€"+'i' is already declared in the upper scope.(ìªÑö
+ijavascript:S4138÷"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ªëñê
+hjavascript:S4138¶"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¼à¹
+Hjavascript:S1117Ì"+'i' is already declared in the upper scope.(ªëñê
+`javascript:S3358×"DExtract this nested ternary operation into an independent statement.(ê´€.
+hjavascript:S4138ñ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¼à¹
+ijavascript:S4138Á"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ªëñê
+}javascript:S2703×"[Add the "let", "const" or "var" keyword to this declaration of "width" to make it explicit.(²òüªúÿÿÿÿ
+yjavascript:S2703Ø"\Add the "let", "const" or "var" keyword to this declaration of "height" to make it explicit.(–Ü
+vjavascript:S5843ğ"TSimplify this regular expression to reduce its complexity from 26 to the 20 allowed.(æÄå³ıÿÿÿÿ
+njavascript:S4138ó"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ıƒôÀûÿÿÿÿ
+njavascript:S4138ø"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ª®–¿úÿÿÿÿ
+ijavascript:S4138ü"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¼Åƒ¾
+njavascript:S4138ˆ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.( ­³ßüÿÿÿÿ
+njavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ş¡¿®şÿÿÿÿ
+ijavascript:S4138î"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ªëñê
+ijavascript:S4138¢"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ªëñê
+wjavascript:S2703º"ZAdd the "let", "const" or "var" keyword to this declaration of "mask" to make it explicit.(Í…Öú
+9javascript:S2814Ç"'i' is already defined.(š‹çşÿÿÿÿ
+yjavascript:S2234Ú"\Arguments 'y' and 'x' have the same names but not the same order as the function parameters.(Şª•
+vjavascript:S2703í"YAdd the "let", "const" or "var" keyword to this declaration of "tmp" to make it explicit.(©ÿÕş
+‚javascript:S2234ï"eArguments 'height' and 'width' have the same names but not the same order as the function parameters.(¿©¾Ä
+<javascript:S1186ü"Unexpected empty function.(‹ƒå‹şÿÿÿÿ
+6javascript:S1186"Unexpected empty function.(¾Ö…K
+Hjavascript:S1117¨"+'e' is already declared in the upper scope.(ÄêœÚ
+Ijavascript:S1125´"'Remove the unnecessary boolean literal.(‡åÑ×üÿÿÿÿ
+Hjavascript:S1117µ"+'e' is already declared in the upper scope.(›À™á
+Mjavascript:S1117¹"+'e' is already declared in the upper scope.(šïûÅúÿÿÿÿ
+Djavascript:S1125È"'Remove the unnecessary boolean literal.(•ºÚË
+Ijavascript:S1125å"'Remove the unnecessary boolean literal.(Öˆ‘ıÿÿÿÿ
+Ijavascript:S1125ı"'Remove the unnecessary boolean literal.(‡åÑ×üÿÿÿÿ
+Djavascript:S1125‚"'Remove the unnecessary boolean literal.(“ÔÓÜ
+njavascript:S4138ƒ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¬’¶Üùÿÿÿÿ
+Ijavascript:S1125Š"'Remove the unnecessary boolean literal.(İ¶„æøÿÿÿÿ

@@ -1,0 +1,87 @@
+
+wjavascript:S3776="VRefactor this function to reduce its Cognitive Complexity from 1423 to the 15 allowed.(äí¥¤øÿÿÿÿ
+:javascript:S2814"'options' is already defined.(ÁûÄ
+Djavascript:S1125°"'Remove the unnecessary boolean literal.(ÜîŠÊ
+Tjavascript:S1481Ö"2Remove the declaration of the unused 'd' variable.(İèÉ“ûÿÿÿÿ
+Qjavascript:S1854Ö"/Remove this useless assignment to variable "d".(İèÉ“ûÿÿÿÿ
+ajavascript:S3358É"DExtract this nested ternary operation into an independent statement.(“˜ï÷
+ajavascript:S3358Ú"DExtract this nested ternary operation into an independent statement.(úäÛ—
+fjavascript:S3358Û"DExtract this nested ternary operation into an independent statement.(ŸÔŸÈúÿÿÿÿ
+fjavascript:S3358ş"DExtract this nested ternary operation into an independent statement.(Õ¦ğ¾ÿÿÿÿÿ
+ujavascript:S2703Œ"XAdd the "let", "const" or "var" keyword to this declaration of "dx" to make it explicit.(ê¸ÚÄ
+.javascript:S1763…	"Unreachable code.(›ûä·
+.javascript:S1763Š	"Unreachable code.(›ûä·
+Ljavascript:S1117É	"/'dragY' is already declared in the upper scope.(çˆıï
+Ljavascript:S1117É	"/'dragX' is already declared in the upper scope.(çˆıï
+;javascript:S2814Î	"'dir' is already defined.(ùÉîÇûÿÿÿÿ
+:javascript:S2814Î	"'to' is already defined.(ùÉîÇûÿÿÿÿ
+ajavascript:S3358ª
+"DExtract this nested ternary operation into an independent statement.(¦Ş¨
+fjavascript:S3358Í
+"DExtract this nested ternary operation into an independent statement.(•™åìúÿÿÿÿ
+fjavascript:S3358Ü
+"DExtract this nested ternary operation into an independent statement.(¨áìÈùÿÿÿÿ
+fjavascript:S3358Ü
+"DExtract this nested ternary operation into an independent statement.(¨áìÈùÿÿÿÿ
+Mjavascript:S1117á
+"0'amount' is already declared in the upper scope.(Ì¯ö
+Pjavascript:S1117á
+"3'overwrite' is already declared in the upper scope.(Ì¯ö
+ajavascript:S3358”"DExtract this nested ternary operation into an independent statement.(®½÷ø
+fjavascript:S3358½"DExtract this nested ternary operation into an independent statement.(ÿ«“şÿÿÿÿ
+ajavascript:S3358Â"DExtract this nested ternary operation into an independent statement.(ó–Ì…
+6javascript:S2814È"'dir' is already defined.(Ê·‘¼
+:javascript:S2814É"'px' is already defined.(¢´Ÿëşÿÿÿÿ
+9javascript:S2814Ê"'amount' is already defined.(°Ò¶è
+ajavascript:S3358Ê"DExtract this nested ternary operation into an independent statement.(°Ò¶è
+Bjavascript:S2814Ë" 'contentPos' is already defined.(×‘Ø«ûÿÿÿÿ
+Bjavascript:S2814Ì" 'draggerPos' is already defined.(¼ÍÆ«øÿÿÿÿ
+=javascript:S2814Í"'limit' is already defined.(ˆŞËùÿÿÿÿ
+;javascript:S2814Î"'dlt' is already defined.(²äµûùÿÿÿÿ
+6javascript:S2814•"'dir' is already defined.(Ê·‘¼
+:javascript:S2814–"'clickDir' is already defined.(·¤ÁE
+5javascript:S2814—"'to' is already defined.(òùÃö
+;javascript:S2814µ"'dir' is already defined.(éê–Şıÿÿÿÿ
+:javascript:S2814µ"'to' is already defined.(éê–Şıÿÿÿÿ
+5javascript:S2814Â"'dir' is already defined.(»Œôo
+4javascript:S2814Â"'to' is already defined.(»Œôo
+;javascript:S2814Ä"'dir' is already defined.(ÛË îüÿÿÿÿ
+:javascript:S2814Ä"'to' is already defined.(ÛË îüÿÿÿÿ
+Pjavascript:S1117ğ".'once' is already declared in the upper scope.(ø‡Ôßûÿÿÿÿ
+ajavascript:S3358ò"DExtract this nested ternary operation into an independent statement.(—İ×Ñ
+ajavascript:S3358ò"DExtract this nested ternary operation into an independent statement.(—İ×Ñ
+fjavascript:S3358ó"DExtract this nested ternary operation into an independent statement.(º—÷Ûşÿÿÿÿ
+fjavascript:S3358ù"DExtract this nested ternary operation into an independent statement.(„‡ìŞşÿÿÿÿ
+fjavascript:S3358ù"DExtract this nested ternary operation into an independent statement.(„‡ìŞşÿÿÿÿ
+ajavascript:S3358˜"DExtract this nested ternary operation into an independent statement.(¤€Ç
+fjavascript:S3358™"DExtract this nested ternary operation into an independent statement.(÷ç±†øÿÿÿÿ
+ajavascript:S3358›"DExtract this nested ternary operation into an independent statement.(œßäÙ
+.javascript:S1763³"Unreachable code.(›ûä·
+.javascript:S1763¸"Unreachable code.(›ûä·
+5javascript:S2814Í"'obj' is already defined.(ªÉËF
+.javascript:S1763Ù"Unreachable code.(›ûä·
+Tjavascript:S1117Î"2'defaults' is already declared in the upper scope.(“‡‰×üÿÿÿÿ
+?javascript:S2814Ú"'options' is already defined.(øÎ’üÿÿÿÿ
+?javascript:S2814Œ""'mCSB_dragger' is already defined.(Ì¹™
+;javascript:S2814"'property' is already defined.(î‘‚×
+Bjavascript:S2814" 'contentPos' is already defined.(ÉÄÌøÿÿÿÿ
+8javascript:S2814"'limit' is already defined.(Œ†Õô
+@javascript:S2814“"'scrollTo' is already defined.(†ºÅ€øÿÿÿÿ
+6javascript:S2814”"'tso' is already defined.(šã 
+<javascript:S2814•"'tsbo' is already defined.(´­£ùÿÿÿÿ
+Ijavascript:S2814–"''totalScrollOffset' is already defined.(ã†îÄûÿÿÿÿ
+Hjavascript:S2814—"+'totalScrollBackOffset' is already defined.(« Ş
+Ajavascript:S2814õ"'callbacks' is already defined.(¢î¢úÿÿÿÿ
+<javascript:S1186ö"Unexpected empty function.(óœŒŸøÿÿÿÿ
+<javascript:S1186ö"Unexpected empty function.(óœŒŸøÿÿÿÿ
+<javascript:S1186ö"Unexpected empty function.(óœŒŸøÿÿÿÿ
+.javascript:S1763¡"Unreachable code.(›ûä·
+.javascript:S1763¤"Unreachable code.(›ûä·
+.javascript:S1763ª"Unreachable code.(›ûä·
+.javascript:S1763°"Unreachable code.(›ûä·
+.javascript:S1763¶"Unreachable code.(›ûä·
+.javascript:S1763º"Unreachable code.(›ûä·
+.javascript:S1763½"Unreachable code.(›ûä·
+Ujavascript:S1121¿"3Extract the assignment of "t" from this expression.(²Ë¾’üÿÿÿÿ
+ijavascript:S4138Û"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Â¢Ë 
+vjavascript:S4144 "YUpdate this function so that its implementation is not identical to the one on line 2327.(êËšå

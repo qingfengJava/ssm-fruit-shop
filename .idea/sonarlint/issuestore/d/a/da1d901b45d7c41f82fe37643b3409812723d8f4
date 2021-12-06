@@ -1,0 +1,11 @@
+
+9javascript:S2814"'io' is already defined.(ıò·Ïüÿÿÿÿ
+pjavascript:S3776<"TRefactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.(²£±
+Ujavascript:S1135="4Complete the task associated to this "TODO" comment.(™¤¿şÿÿÿÿ
+Ojavascript:S1481A"3Remove the declaration of the unused 'io' variable.(Ÿ«Ìª
+Ljavascript:S1854A"0Remove this useless assignment to variable "io".(Ÿ«Ìª
+Mjavascript:S1117Q",'io' is already declared in the upper scope.(ÁÕ‡úÿÿÿÿ
+@javascript:S125¥"Remove this commented out code.(ûœ­úÿÿÿÿ
+<javascript:S2814¦"'form' is already defined.(ïğÙ¶ùÿÿÿÿ
+Bjavascript:S1186¾" Unexpected empty method 'abort'.(¶¸ÜËÿÿÿÿÿ
+@javascript:S125Î"Remove this commented out code.(ğ£ƒúüÿÿÿÿ

@@ -1,0 +1,23 @@
+
+mjavascript:S4138B"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ñ¸ðˆÿÿÿÿÿ
+Bjavascript:S1125G"'Remove the unnecessary boolean literal.(´¶¤%
+3javascript:S2814I"'i' is already defined.(åØå§
+Fjavascript:S1186S"%Unexpected empty method 'onComplete'.(áåå·øÿÿÿÿ
+pjavascript:S3776Z"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(úáº¶
+gjavascript:S4138\"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(‚†E
+hjavascript:S4138k"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ô¥‰ø
+3javascript:S2814k"'i' is already defined.(ô¥‰ø
+hjavascript:S4138o"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ô¥‰ø
+Gjavascript:S1117o"+'i' is already declared in the upper scope.(ô¥‰ø
+Jjavascript:S1117p".'name' is already declared in the upper scope.(êÜ×‘
+qjavascript:S3776•"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(‡°¯Û
+hjavascript:S4138¯"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.( ð]
+vjavascript:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 82 to the 15 allowed.(ˆß‡·þÿÿÿÿ
+Mjavascript:S1117™"0'parent' is already declared in the upper scope.(º‚Ô…
+Rjavascript:S1117¹"0'parent' is already declared in the upper scope.(”´©¨üÿÿÿÿ
+Sjavascript:S1117¹"1'options' is already declared in the upper scope.(”´©¨üÿÿÿÿ
+qjavascript:S3776ò"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(éÈ„±
+`javascript:S1481ô">Remove the declaration of the unused 'dblTouchTimer' variable.(”ÇÓïüÿÿÿÿ
+€javascript:S2703û"cAdd the "let", "const" or "var" keyword to this declaration of "dblClickTimer" to make it explicit.(ç«êõ
+;javascript:S125‚"Remove this commented out code.(”®µÞ
+@javascript:S125—"Remove this commented out code.(ê×¼Ðþÿÿÿÿ

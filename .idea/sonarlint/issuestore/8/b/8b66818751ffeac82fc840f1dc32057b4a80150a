@@ -1,0 +1,11 @@
+
+>
+java:S2111~"!Use "BigDecimal.valueOf" instead.(ğŸ®®8î¢™”Ö/
+N
+java:S1874„"0Remove this use of "setScale"; it is deprecated.(—ñÙ8ñ¢™”Ö/
+S
+java:S1874„"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(—ñÙ8ò¢™”Ö/
+v
+java:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ¹¥´8„£™”Ö/
+Š
+java:S1192O"hDefine a constant instead of duplicating this literal "select * from item_order where user_id=" 5 times.(Ç×úùÿÿÿÿ8…£™”Ö/

@@ -1,0 +1,33 @@
+
+7javascript:S1116
+"Unnecessary semicolon.(Àíç´ùÿÿÿÿ
+vjavascript:S3776
+"URefactor this function to reduce its Cognitive Complexity from 364 to the 15 allowed.(Àíç´ùÿÿÿÿ
+bjavascript:S2137
+"ADo not use "undefined" to declare a parameter - use another name.(Àíç´ùÿÿÿÿ
+Sjavascript:S14817"2Remove the declaration of the unused 'i' variable.(£ö«°ÿÿÿÿÿ
+8javascript:S28148"'module' is already defined.(¢¦Ë…
+Qjavascript:S6035;"0Replace this alternation with a character class.(†È’úÿÿÿÿ
+7javascript:S1116F"Unnecessary semicolon.(•½Ãûøÿÿÿÿ
+7javascript:S1116G"Unnecessary semicolon.(±Æ‚¬şÿÿÿÿ
+ejavascript:S3358G"DExtract this nested ternary operation into an independent statement.(±Æ‚¬şÿÿÿÿ
+2javascript:S1116I"Unnecessary semicolon.(¯ÃüÎ
+ajavascript:S3358Â"DExtract this nested ternary operation into an independent statement.(‰Î­Ó
+ajavascript:S3358Ã"DExtract this nested ternary operation into an independent statement.(ÀÎ¿
+ajavascript:S3358Ô"DExtract this nested ternary operation into an independent statement.(ÎĞµ¸
+\javascript:S1481æ":Remove the declaration of the unused 'nodeIndex' variable.(Ò˜êûÿÿÿÿ
+:javascript:S2814ó"'content' is already defined.(ì¬ğ¿
+bjavascript:S905ù"FExpected an assignment or function call and instead saw an expression.(œ¡Æï
+Vjavascript:S1301À"9"switch" statements should have at least 3 "case" clauses(¦›ñÒ
+8javascript:S1116…"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Wjavascript:S1854æ"5Remove this useless assignment to variable "offsetX".(Åú¡•ûÿÿÿÿ
+Wjavascript:S1854æ"5Remove this useless assignment to variable "offsetY".(Åú¡•ûÿÿÿÿ
+Vjavascript:S1854æ"4Remove this useless assignment to variable "setRig".(Åú¡•ûÿÿÿÿ
+Vjavascript:S1854æ"4Remove this useless assignment to variable "setTop".(Åú¡•ûÿÿÿÿ
+Ujavascript:S1854½"3Remove this useless assignment to variable "sthis".(Ìšøãúÿÿÿÿ
+8javascript:S1116Ç"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Ujavascript:S1854Ñ"3Remove this useless assignment to variable "sthis".(Ìšøãúÿÿÿÿ
+Wjavascript:S1481¸"5Remove the declaration of the unused 'type' variable.(«ªè™üÿÿÿÿ
+Tjavascript:S1854¸"2Remove this useless assignment to variable "type".(«ªè™üÿÿÿÿ
+Ujavascript:S1854Î"3Remove this useless assignment to variable "timer".(Àüêıÿÿÿÿ
+Mjavascript:S1854„"0Remove this useless assignment to variable "is".(¥ÁÙ¥

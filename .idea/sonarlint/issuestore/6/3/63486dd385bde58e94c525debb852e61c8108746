@@ -1,0 +1,43 @@
+
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(î«¡Òÿÿÿÿÿ
+7javascript:S11161"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116D"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116E"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116N"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+;javascript:S1186Q"Unexpected empty function.(÷‘©òûÿÿÿÿ
+7javascript:S1116^"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+ojavascript:S3776_"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(ÖÙ¾5
+6javascript:S2814‰"'_23' is already defined.(ÀŒáÚ
+Qjavascript:S1481‹"4Remove the declaration of the unused 'top' variable.(¸±Ş†
+Qjavascript:S1481‹"4Remove the declaration of the unused '_24' variable.(¸±Ş†
+Qjavascript:S1481‹"4Remove the declaration of the unused '_25' variable.(¸±Ş†
+Qjavascript:S1481‹"4Remove the declaration of the unused '_26' variable.(¸±Ş†
+;javascript:S2814¯"'_27' is already defined.(¦»ğùÿÿÿÿ
+8javascript:S1116»"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116È"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+qjavascript:S3776É"TRefactor this function to reduce its Cognitive Complexity from 93 to the 15 allowed.(€¤í“
+Djavascript:S1125Ğ"'Remove the unnecessary boolean literal.(èÌ’‘
+Ijavascript:S1125ã"'Remove the unnecessary boolean literal.(Ê›Ïúÿÿÿÿ
+Mjavascript:S1117€"+'p' is already declared in the upper scope.(ÕÙíÌûÿÿÿÿ
+8javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+6javascript:S2814"'_3e' is already defined.(ÏüÓö
+6javascript:S2814"'_3f' is already defined.( Ú³í
+;javascript:S2814®"'_40' is already defined.(Š©€›øÿÿÿÿ
+:javascript:S2814¯"'hh' is already defined.(ÛÒâşÿÿÿÿ
+8javascript:S1116¹"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116º"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+vjavascript:S3776»"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ãˆàúüÿÿÿÿ
+Djavascript:S1125¿"'Remove the unnecessary boolean literal.(™ÕÌá
+8javascript:S1116à"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116á"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116ë"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1186ñ"Unexpected empty function.(ˆıóó
+8javascript:S1116ı"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116ş"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116‰"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Ejavascript:S1186Å"#Unexpected empty method 'onExpand'.(ÒêÂùÿÿÿÿ
+Gjavascript:S1186Æ"%Unexpected empty method 'onCollapse'.(ÈèÈÊşÿÿÿÿ
+=javascript:S1186Ç" Unexpected empty method 'onAdd'.(Ğƒ 
+@javascript:S1186È"#Unexpected empty method 'onRemove'.(õú€®
+Tjavascript:S1481Ë"2Remove the declaration of the unused 't' variable.(‡Éıÿÿÿÿ
+Qjavascript:S1854Ë"/Remove this useless assignment to variable "t".(‡Éıÿÿÿÿ

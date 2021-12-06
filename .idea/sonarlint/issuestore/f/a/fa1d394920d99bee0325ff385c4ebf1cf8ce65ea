@@ -1,0 +1,10 @@
+
+qjavascript:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ù›•ò
+vjavascript:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(÷¦øëýÿÿÿÿ
+Vjavascript:S1135ú"4Complete the task associated to this "TODO" comment.(˜•ÂÔûÿÿÿÿ
+vjavascript:S3776ý"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(‹ÓÃ·øÿÿÿÿ
+Tjavascript:S1854Æ"7Remove this useless assignment to variable "headerRow".(°åÇ®
+pjavascript:S5850Ð"TGroup parts of the regex together to make the intended operator precedence explicit.(Û’€5
+qjavascript:S3776×"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(Úê‰æ
+qjavascript:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(ÛŸÓ…
+Šjavascript:S1994÷"hThis loop's stop condition tests "i, columns.length, columns" but the incrementer updates "seriesIndex".(–ÁÚ²ÿÿÿÿÿ

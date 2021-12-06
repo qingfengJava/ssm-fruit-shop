@@ -1,0 +1,19 @@
+
+mjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(²ûú«ÿÿÿÿÿ
+mjavascript:S4138N"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(²ûú«ÿÿÿÿÿ
+sjavascript:S2703"WAdd the "let", "const" or "var" keyword to this declaration of "i" to make it explicit.( êÖG
+rjavascript:S3776³"URefactor this function to reduce its Cognitive Complexity from 104 to the 15 allowed.(¡€ß‘
+ajavascript:S1481À"?Remove the declaration of the unused '$filePickerBtn' variable.(˜ï¡²úÿÿÿÿ
+^javascript:S1854À"<Remove this useless assignment to variable "$filePickerBtn".(˜ï¡²úÿÿÿÿ
+Kjavascript:S1854Û"/Remove this useless assignment to variable "s".(ã·.
+Ljavascript:S1117 "/'$wrap' is already declared in the upper scope.(´‘Ï´
+Qjavascript:S1117¡"/'$info' is already declared in the upper scope.(õÇ£ÿÿÿÿÿ
+wjavascript:S2703¦"ZAdd the "let", "const" or "var" keyword to this declaration of "text" to make it explicit.(ÜšÔˆ
+2javascript:S108ç"Empty block statement.(„ùª®
+7javascript:S1186Ş"Unexpected empty function.(©õ‘å
+<javascript:S1186å"Unexpected empty function.(£ÃÃ‚ûÿÿÿÿ
+Xjavascript:S1121û"6Extract the assignment of "file" from this expression.(ÿ£áüÿÿÿÿ
+vjavascript:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Œé½Õÿÿÿÿÿ
+qjavascript:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Öà«‚
+ijavascript:S4138®"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¤öÿƒ
+ijavascript:S4138æ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(òØİÛ

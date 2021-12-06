@@ -1,0 +1,19 @@
+
+Z
+java:S1854ª"7Remove this useless assignment to local variable "res".(ÙÜ¢ùÿÿÿÿ8ƒ­™”Ö/
+Y
+java:S1854­"6Remove this useless assignment to local variable "td".(Í ñ¨şÿÿÿÿ8„­™”Ö/
+K
+java:S1481ª"(Remove this unused "res" local variable.(ÙÜ¢ùÿÿÿÿ8­™”Ö/
+J
+java:S1481­"'Remove this unused "td" local variable.(Í ñ¨şÿÿÿÿ8Ÿ­™”Ö/
+|
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(Çİ³ºûÿÿÿÿ8¤­™”Ö/
+|
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÜ¢ùÿÿÿÿ8¥­™”Ö/
+|
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ8¥­™”Ö/
+‘
+java:S1192~"oDefine a constant instead of duplicating this literal "redirect: /itemCategory/findBySql2.action?pid=" 3 times.(ß›Ò¹ûÿÿÿÿ8¦­™”Ö/
+‹
+java:S1192<"iDefine a constant instead of duplicating this literal "redirect: /itemCategory/findBySql.action" 3 times.(’†ø×üÿÿÿÿ8¦­™”Ö/

@@ -1,0 +1,19 @@
+
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(¦©‡Öøÿÿÿÿ
+Ljavascript:S1117*"+'c' is already declared in the upper scope.(‹Äµ‹ÿÿÿÿÿ
+Kjavascript:S1117B"0'target' is already declared in the upper scope.(Ğ¯„*
+Jjavascript:S1117C".'opts' is already declared in the upper scope.(®êÔÇ
+Kjavascript:S1117N"0'target' is already declared in the upper scope.(Ü§Àk
+Jjavascript:S1117O".'opts' is already declared in the upper scope.(®êÔÇ
+Kjavascript:S1117P"/'panel' is already declared in the upper scope.(“ªµò
+Ljavascript:S1117X"0'target' is already declared in the upper scope.(Ô”
+Kjavascript:S1117Y"/'panel' is already declared in the upper scope.(“ªµò
+Ljavascript:S1117e"0'target' is already declared in the upper scope.(ˆÕÚ
+Kjavascript:S1117f"/'panel' is already declared in the upper scope.(“ªµò
+Hjavascript:S1117g",'cc' is already declared in the upper scope.(Í§™ø
+Ljavascript:S1117Ì"/'value' is already declared in the upper scope.(¼„Ÿ…
+?javascript:S1186ê"Unexpected empty method 'up'.(ÏØªõùÿÿÿÿ
+<javascript:S1186ë"Unexpected empty method 'down'.(ãñÒ
+<javascript:S1186ì"Unexpected empty method 'left'.(™öÄ‰
+=javascript:S1186í" Unexpected empty method 'right'.(¹ÒöË
+@javascript:S1186›"#Unexpected empty method 'onSelect'.(‰¿Ù¿

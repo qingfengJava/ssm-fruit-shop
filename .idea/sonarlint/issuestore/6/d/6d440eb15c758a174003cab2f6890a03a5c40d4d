@@ -1,0 +1,23 @@
+
+ojavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¶ÒÒ*
+Tjavascript:S1481"3Remove the declaration of the unused '_5' variable.(µÛÀúùÿÿÿÿ
+Bjavascript:S1125"'Remove the unnecessary boolean literal.(ì¤€
+4javascript:S2814"'_8' is already defined.(ÌëŠ
+7javascript:S11167"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116G"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+pjavascript:S3776l"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¦‡çô
+hjavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ÿ…­¾
+ijavascript:S4138®"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ˆ¶™ˆ
+njavascript:S4138º"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Áá šúÿÿÿÿ
+9javascript:S2814º"'i' is already defined.(Áá šúÿÿÿÿ
+6javascript:S2814»"'_37' is already defined.(íí‰ò
+njavascript:S4138Ç"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Áá šúÿÿÿÿ
+Mjavascript:S1117Ç"+'i' is already declared in the upper scope.(Áá šúÿÿÿÿ
+8javascript:S1116Î"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Ó"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+qjavascript:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÕŸêï
+8javascript:S1116¥"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+6javascript:S2814¿"'_5c' is already defined.(¦ªÍ·
+ijavascript:S4138À"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(§«£—
+4javascript:S2814À"'i' is already defined.(§«£—
+;javascript:S2814Á"'_61' is already defined.(×Øˆşÿÿÿÿ

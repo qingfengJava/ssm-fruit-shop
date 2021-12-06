@@ -1,0 +1,24 @@
+
+ojavascript:S3776A"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(Ü§Àk
+Kjavascript:S1117…".'menu' is already declared in the upper scope.(„Äó–
+qjavascript:S3776È"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Èœìñ
+<javascript:S2814å"'date' is already defined.(Íé‹ùÿÿÿÿ
+;javascript:S2814é"'firstDate' is already defined.(¬Î{
+7javascript:S2814ê"'week' is already defined.(çµ¡à
+9javascript:S2814ë"'i' is already defined.(Ð‘ô…üÿÿÿÿ
+<javascript:S2814ì"'date' is already defined.(’ïýÜøÿÿÿÿ
+<javascript:S2814õ"'date' is already defined.(Ñèàýýÿÿÿÿ
+;javascript:S2814ù"'lastDate' is already defined.(ÜÕì©
+7javascript:S2814ú"'week' is already defined.(çµ¡à
+9javascript:S2814û"'i' is already defined.(Ð‘ô…üÿÿÿÿ
+6javascript:S2814ü"'date' is already defined.(‰ŽÜ
+vjavascript:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(´º÷ûÿÿÿÿ
+9javascript:S2814¤"'i' is already defined.(ÈéØ«ýÿÿÿÿ
+9javascript:S2814«"'i' is already defined.(Øí¡øÿÿÿÿ
+;javascript:S2814Ä"'cls' is already defined.(òñ´²þÿÿÿÿ
+Ijavascript:S1125ñ"'Remove the unnecessary boolean literal.(Üí¬Üøÿÿÿÿ
+Ojavascript:S1481 "2Remove the declaration of the unused 't' variable.(¡˜Áž
+Ljavascript:S1854 "/Remove this useless assignment to variable "t".(¡˜Áž
+Ejavascript:S1186Ã"#Unexpected empty method 'onSelect'.(‰´‚Úúÿÿÿÿ
+Ejavascript:S1186Ä"#Unexpected empty method 'onChange'.(Ï÷äßþÿÿÿÿ
+Gjavascript:S1186Å"%Unexpected empty method 'onNavigate'.(ëÇÁôùÿÿÿÿ

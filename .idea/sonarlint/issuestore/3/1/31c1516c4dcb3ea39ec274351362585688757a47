@@ -1,0 +1,182 @@
+
+rjavascript:S3776"VRefactor this function to reduce its Cognitive Complexity from 9960 to the 15 allowed.(ˆè²Ô
+;javascript:S11867"Unexpected empty function.(¡´ïÊûÿÿÿÿ
+ajavascript:S1481b"@Remove the declaration of the unused 'LINEAR_GRADIENT' variable.(ò·—‰üÿÿÿÿ
+^javascript:S1854b"=Remove this useless assignment to variable "LINEAR_GRADIENT".(ò·—‰üÿÿÿÿ
+Rjavascript:S1481c"6Remove the declaration of the unused 'STOPS' variable.(Î¦ëø
+Ojavascript:S1854c"3Remove this useless assignment to variable "STOPS".(Î¦ëø
+@javascript:S2310Â"Remove this assignment of "i".(Üáõ˜ùÿÿÿÿ
+7javascript:S1186ö"Unexpected empty function.(Ë¨š³
+fjavascript:S3358‰"DExtract this nested ternary operation into an independent statement.(¢Ó‰Óøÿÿÿÿ
+\javascript:S1121‰":Extract the assignment of "decimals" from this expression.(¢Ó‰Óøÿÿÿÿ
+Pjavascript:S1121"3Extract the assignment of "n" from this expression.(Õ²œ
+Mjavascript:S1117µ"0'format' is already declared in the upper scope.( –¡Ï
+Rjavascript:S1117õ"0'format' is already declared in the upper scope.(ËÓ­…úÿÿÿÿ
+Xjavascript:S6353÷";Use concise character class syntax '\d' instead of '[0-9]'.(İÏÉÔ
+Pjavascript:S1117¢".'time' is already declared in the upper scope.(‰•Çğùÿÿÿÿ
+Pjavascript:S1117¤".'time' is already declared in the upper scope.(ê§‡ûÿÿÿÿ
+Kjavascript:S1117µ".'stop' is already declared in the upper scope.(ÿæÉˆ
+@javascript:S125•"Remove this commented out code.(¯ü¾Øÿÿÿÿÿ
+Tjavascript:S1117Ê"2'pathAnim' is already declared in the upper scope.(­˜Ÿ•úÿÿÿÿ
+Pjavascript:S1121×"3Extract the assignment of "t" from this expression.(Ò•œù
+fjavascript:S3358€	"DExtract this nested ternary operation into an independent statement.(Æµ¼ıÿÿÿÿ
+Ujavascript:S1854Ô	"3Remove this useless assignment to variable "chart".(°ºªßûÿÿÿÿ
+;javascript:S125„
+"Remove this commented out code.(‰§¾§
+<javascript:S1186«
+"Unexpected empty function.(áş°Ÿıÿÿÿÿ
+;javascript:S125Á"Remove this commented out code.(ïÿ¿ˆ
+Qjavascript:S1117ã"/'input' is already declared in the upper scope.(á°‚Áúÿÿÿÿ
+Kjavascript:S1117ç".'stop' is already declared in the upper scope.(ñ÷ÉÅ
+]javascript:S6353î";Use concise character class syntax '\d' instead of '[0-9]'.(Ö¸êúÿÿÿÿ
+]javascript:S6353î";Use concise character class syntax '\d' instead of '[0-9]'.(Ö¸êúÿÿÿÿ
+]javascript:S6353î";Use concise character class syntax '\d' instead of '[0-9]'.(Ö¸êúÿÿÿÿ
+]javascript:S6353î";Use concise character class syntax '\d' instead of '[0-9]'.(Ö¸êúÿÿÿÿ
+]javascript:S6353î";Use concise character class syntax '\d' instead of '[0-9]'.(Ö¸êúÿÿÿÿ
+]javascript:S6353ø";Use concise character class syntax '\d' instead of '[0-9]'.(¨©ôøÿÿÿÿ
+]javascript:S6353ø";Use concise character class syntax '\d' instead of '[0-9]'.(¨©ôøÿÿÿÿ
+]javascript:S6353ø";Use concise character class syntax '\d' instead of '[0-9]'.(¨©ôøÿÿÿÿ
+Rjavascript:S1117…"0'format' is already declared in the upper scope.(Úº‹ÿÿÿÿÿ
+Pjavascript:S1117‹".'stop' is already declared in the upper scope.(¼´Üÿÿÿÿÿ
+Pjavascript:S1117¤".'stop' is already declared in the upper scope.(¡º¨Åşÿÿÿÿ
+Djavascript:S1186Ğ"'Unexpected empty function 'SVGElement'.(«ÚÎ
+Kjavascript:S1117…".'hash' is already declared in the upper scope.(œ©ÎĞ
+@javascript:S125Ã"Remove this commented out code.(ŞŞéÃûÿÿÿÿ
+@javascript:S125Ë"Remove this commented out code.(¢»›µûÿÿÿÿ
+Bjavascript:S2310Ù" Remove this assignment of "key".(½ÁÖÔùÿÿÿÿ
+=javascript:S2310ï" Remove this assignment of "key".(şë¤
+Bjavascript:S2310" Remove this assignment of "key".(ß–¨øÿÿÿÿ
+=javascript:S2310œ" Remove this assignment of "key".(èÀ¹‚
+Jjavascript:S1117Š".'hash' is already declared in the upper scope.(ùÊà5
+ajavascript:S3358Í"DExtract this nested ternary operation into an independent statement.(óúä
+Qjavascript:S1854ç"4Remove this useless assignment to variable "height".(šµÔŒ
+ajavascript:S3358ô"DExtract this nested ternary operation into an independent statement.(±Æ»
+ajavascript:S3358ô"DExtract this nested ternary operation into an independent statement.(±Æ»
+ajavascript:S3358ô"DExtract this nested ternary operation into an independent statement.(±Æ»
+^javascript:S6019¾"<Remove the '?' from this unnecessarily reluctant quantifier.(ÍÊˆĞşÿÿÿÿ
+Ajavascript:S1186"Unexpected empty method 'draw'.(’‹±·ùÿÿÿÿ
+Xjavascript:S930÷"7This function expects 3 arguments, but 4 were provided.(ìšñÿÿÿÿÿ
+Vjavascript:S1135€"4Complete the task associated to this "TODO" comment.(¿Ä „ÿÿÿÿÿ
+^javascript:S107Í"BMethod 'button' has too many parameters (8). Maximum allowed is 7.(Ú¬·
+Pjavascript:S1117Ò".'attr' is already declared in the upper scope.(¶ÓàÓúÿÿÿÿ
+Kjavascript:S1117ä".'attr' is already declared in the upper scope.(û¹à•
+Njavascript:S1117°"1'animate' is already declared in the upper scope.(å‚„Ù
+Wjavascript:S1854Ê":Remove this useless assignment to variable "imageElement".(ªæ×
+djavascript:S1121Ì"GExtract the assignment of "symbolSizes[imageSrc]" from this expression.(äˆß•
+Pjavascript:S1117Ÿ".'stop' is already declared in the upper scope.(¡º¨Åşÿÿÿÿ
+Qjavascript:S1117Â "5'parentGroup' is already declared in the upper scope.(—ıp
+]javascript:S107“!"AMethod 'label' has too many parameters (9). Maximum allowed is 7.(ö¨Ùà
+Mjavascript:S1117Û!"+'x' is already declared in the upper scope.(¾èÌşÿÿÿÿ
+Mjavascript:S1117Ü!"+'y' is already declared in the upper scope.(ÍÁøÿÿÿÿ
+;javascript:S125Ä$"Remove this commented out code.(ë¨Ç÷
+Kjavascript:S1117Ó$".'hash' is already declared in the upper scope.(œ©ÎĞ
+Bjavascript:S2310¶%" Remove this assignment of "key".(®ªœ¯ÿÿÿÿÿ
+=javascript:S2310É%" Remove this assignment of "key".(é×çû
+Bjavascript:S2310ã%" Remove this assignment of "key".(¯ÕÈèøÿÿÿÿ
+Bjavascript:S2310è%" Remove this assignment of "key".(¢±âÚúÿÿÿÿ
+=javascript:S2310&" Remove this assignment of "key".(Öß™ğ
+;javascript:S125†&"Remove this commented out code.(ƒşğã
+Pjavascript:S1117)".'stop' is already declared in the upper scope.(¼´Üÿÿÿÿÿ
+Pjavascript:S1117¢*".'attr' is already declared in the upper scope.(¶ÓàÓúÿÿÿÿ
+@javascript:S125÷*"Remove this commented out code.(¤õªÀúÿÿÿÿ
+Ojavascript:S1117¥-"-'css' is already declared in the upper scope.(¬Ï°¨øÿÿÿÿ
+Pjavascript:S1117¦-".'attr' is already declared in the upper scope.(ËÏèñùÿÿÿÿ
+Cjavascript:S1110ğ-"!Remove these useless parentheses.(§èÚúÿÿÿÿ
+bjavascript:S1121ğ-"@Extract the assignment of "this.labelBBox" from this expression.(§èÚúÿÿÿÿ
+fjavascript:S3358ğ-"DExtract this nested ternary operation into an independent statement.(§èÚúÿÿÿÿ
+ajavascript:S3358È."DExtract this nested ternary operation into an independent statement.(¿ÁĞÍ
+ajavascript:S3358Ë."DExtract this nested ternary operation into an independent statement.(ß„è
+hjavascript:S107Ô."LMethod 'getLabelPosition' has too many parameters (8). Maximum allowed is 7.(¥šòÕ
+fjavascript:S3358İ."DExtract this nested ternary operation into an independent statement.(•¯½˜şÿÿÿÿ
+ajavascript:S3358ß."DExtract this nested ternary operation into an independent statement.(İÏş¦
+pjavascript:S1871ù/"NThis branch's code block is the same as the block for the branch on line 6133.(üç‡¢úÿÿÿÿ
+Ojavascript:S1117¹0"2'addEvent' is already declared in the upper scope.(«èÅ
+Pjavascript:S1117ş0"3'eventType' is already declared in the upper scope.(˜ˆüø
+ajavascript:S33581"DExtract this nested ternary operation into an independent statement.( İµœ
+ajavascript:S33581"DExtract this nested ternary operation into an independent statement.( İµœ
+fjavascript:S3358æ1"DExtract this nested ternary operation into an independent statement.(ºùÈòşÿÿÿÿ
+ajavascript:S3358ç1"DExtract this nested ternary operation into an independent statement.(¾¹Šæ
+fjavascript:S3358è1"DExtract this nested ternary operation into an independent statement.(¿µâ·ÿÿÿÿÿ
+ajavascript:S3358é1"DExtract this nested ternary operation into an independent statement.(»û‡Û
+fjavascript:S3358ì1"DExtract this nested ternary operation into an independent statement.(Ñê´¢øÿÿÿÿ
+fjavascript:S33582"DExtract this nested ternary operation into an independent statement.(ˆ—Àíùÿÿÿÿ
+ajavascript:S3358Ÿ2"DExtract this nested ternary operation into an independent statement.(¿è­«
+ajavascript:S3358­2"DExtract this nested ternary operation into an independent statement.(‡Òÿ
+@javascript:S125ä3"Remove this commented out code.(ÏĞÿÿÿÿÿ
+fjavascript:S3358ÿ3"DExtract this nested ternary operation into an independent statement.(Ş½ Ôúÿÿÿÿ
+ajavascript:S3358€4"DExtract this nested ternary operation into an independent statement.(Íİ“œ
+;javascript:S125‘4"Remove this commented out code.(´ïôÛ
+;javascript:S125›4"Remove this commented out code.(”ì˜ò
+;javascript:S125¶4"Remove this commented out code.(¬áÊ°
+@javascript:S125É4"Remove this commented out code.(‘³ë¸øÿÿÿÿ
+@javascript:S125«<"Remove this commented out code.(»‡ñÎùÿÿÿÿ
+Ijavascript:S1117Ô>"-'pos' is already declared in the upper scope.(½´
+Ijavascript:S1117ş>"-'pos' is already declared in the upper scope.(½´
+Mjavascript:S1117Ë?"0'offset' is already declared in the upper scope.(Šã·ú
+Mjavascript:S1117ò?"0'offset' is already declared in the upper scope.(Šã·ú
+ajavascript:S3358†@"DExtract this nested ternary operation into an independent statement.(§¶ö•
+fjavascript:S3358‰@"DExtract this nested ternary operation into an independent statement.(è€·íÿÿÿÿÿ
+Sjavascript:S1117ÁC"1'animate' is already declared in the upper scope.(öÀ‚úÿÿÿÿ
+fjavascript:S3358²D"DExtract this nested ternary operation into an independent statement.(ëÔşÿÿÿÿ
+Qjavascript:S1117ªE"/'point' is already declared in the upper scope.(Ú†ŞÙùÿÿÿÿ
+Vjavascript:S1135÷H"4Complete the task associated to this "TODO" comment.(úÄİéøÿÿÿÿ
+fjavascript:S3358ûH"DExtract this nested ternary operation into an independent statement.(ÒÈ èıÿÿÿÿ
+Gjavascript:S1117ŸI"+'e' is already declared in the upper scope.(‡â
+Mjavascript:S1117¥I"+'e' is already declared in the upper scope.(›Û–øÿÿÿÿ
+;javascript:S125–L"Remove this commented out code.(×à…
+@javascript:S125ÀO"Remove this commented out code.(ã·äøıÿÿÿÿ
+@javascript:S125ÙP"Remove this commented out code.(´œÕƒûÿÿÿÿ
+Tjavascript:S1854‘Q"7Remove this useless assignment to variable "pageCount".(Çó¹ß
+Vjavascript:S1135†R"4Complete the task associated to this "TODO" comment.(Ùä®èıÿÿÿÿ
+@javascript:S125±R"Remove this commented out code.(¨¸ü–ıÿÿÿÿ
+:javascript:S125·R"Remove this commented out code.(ú“
+;javascript:S125½R"Remove this commented out code.(§’ÑŒ
+@javascript:S125ËR"Remove this commented out code.(¡—Ä„ûÿÿÿÿ
+@javascript:S125ĞR"Remove this commented out code.(‡ş¥ôÿÿÿÿÿ
+;javascript:S125ÒR"Remove this commented out code.(”ì˜ò
+Ojavascript:S1854¸S"2Remove this useless assignment to variable "axis".(´Úõ
+Qjavascript:S1135óS"4Complete the task associated to this "TODO" comment.(Í–÷ï
+Qjavascript:S1117œT"/'serie' is already declared in the upper scope.(ÙºÙÿÿÿÿÿ
+Qjavascript:S1117âT"/'serie' is already declared in the upper scope.(ÙºÙÿÿÿÿÿ
+Kjavascript:S1117úU".'axis' is already declared in the upper scope.(ç¯ÄÕ
+Kjavascript:S1117ÿU".'axis' is already declared in the upper scope.(±º¯Ë
+Tjavascript:S1854‡V"2Remove this useless assignment to variable "axis".(Š™¦åùÿÿÿÿ
+Xjavascript:S1117ÇW"6'titleOptions' is already declared in the upper scope.(Í¼ú­ûÿÿÿÿ
+Xjavascript:S1117ÈW";'chartTitleOptions' is already declared in the upper scope.(ÀŞé£
+<javascript:S1186€_"Unexpected empty function.(÷£‡êûÿÿÿÿ
+<javascript:S1186¥c"Unexpected empty function.(Š¿Ì—üÿÿÿÿ
+Rjavascript:S1117ğc"0'series' is already declared in the upper scope.(“ÀÍøÿÿÿÿ
+Mjavascript:S1117Ğd"+'i' is already declared in the upper scope.(ÈÓºÙøÿÿÿÿ
+Kjavascript:S1117Èe".'attr' is already declared in the upper scope.(ÙĞß©
+Qjavascript:S1135»f"4Complete the task associated to this "TODO" comment.(Ù©ôß
+;javascript:S2310Œi"Remove this assignment of "i".(ÿ´ûİ
+fjavascript:S3358âk"DExtract this nested ternary operation into an independent statement.(£ø¥İıÿÿÿÿ
+fjavascript:S3358Óm"DExtract this nested ternary operation into an independent statement.(”Â‚øÿÿÿÿ
+Rjavascript:S1854İm"5Remove this useless assignment to variable "graphic".(ìÔ¾ò
+Pjavascript:S1117ùm".'attr' is already declared in the upper scope.(ËÏèñùÿÿÿÿ
+Kjavascript:S1117åo".'prop' is already declared in the upper scope.(È¾Ş
+Pjavascript:S1117¡p".'attr' is already declared in the upper scope.(ËÏèñùÿÿÿÿ
+Jjavascript:S1117­v"-'css' is already declared in the upper scope.(Ó“ÂÏ
+Sjavascript:S1117áv"1'tracker' is already declared in the upper scope.(Êš­¨øÿÿÿÿ
+Mjavascript:S1117¬w"+'x' is already declared in the upper scope.(şø›•øÿÿÿÿ
+fjavascript:S3358¹w"DExtract this nested ternary operation into an independent statement.(Â‹¯şÿÿÿÿ
+Vjavascript:S1135åw"4Complete the task associated to this "TODO" comment.(û­Èıùÿÿÿÿ
+;javascript:S125•y"Remove this commented out code.(–±Ù
+hjavascript:S1121ãz"FExtract the assignment of "series.columnMetrics" from this expression.(Ğ„ÙÃúÿÿÿÿ
+ajavascript:S3358—{"DExtract this nested ternary operation into an independent statement.(¼š“É
+Rjavascript:S1854ç{"5Remove this useless assignment to variable "graphic".(©ßİß
+Jjavascript:S1117ü{"-'css' is already declared in the upper scope.(Ó“ÂÏ
+fjavascript:S3358Ï|"DExtract this nested ternary operation into an independent statement.(Çš‚¡üÿÿÿÿ
+ajavascript:S3358Ó|"DExtract this nested ternary operation into an independent statement.(–õ—“
+Jjavascript:S1117ä|".'attr' is already declared in the upper scope.(©¼
+wjavascript:S4144ˆ}"ZUpdate this function so that its implementation is not identical to the one on line 15647.(“ş­Í
+Qjavascript:S1854º~"4Remove this useless assignment to variable "redraw".(ıÏåı
+gjavascript:S3358·€"DExtract this nested ternary operation into an independent statement.(•Û´ûÿÿÿÿ
+<javascript:S125ç€"Remove this commented out code.(¢¥ªÕ
+Mjavascript:S1117¾"/'point' is already declared in the upper scope.(ÁÉ‡õ
+<javascript:S125ä"Remove this commented out code.(–±Ù
+gjavascript:S3358Ó‚"DExtract this nested ternary operation into an independent statement.(ö”áÃÿÿÿÿÿ
+gjavascript:S3358Ô‚"DExtract this nested ternary operation into an independent statement.(ÍĞ’ÿÿÿÿÿÿ
+Mjavascript:S1117†ƒ"/'point' is already declared in the upper scope.(ÕØ÷ñ
+Xjavascript:S1854Àƒ"5Remove this useless assignment to variable "newSize".(³Æ°İûÿÿÿÿ
+^javascript:S2589ÿƒ"@This always evaluates to truthy. Consider refactoring this code.(Ã¤…¶

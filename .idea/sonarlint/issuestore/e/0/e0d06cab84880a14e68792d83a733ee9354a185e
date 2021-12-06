@@ -1,0 +1,175 @@
+
+7javascript:S1116"Unnecessary semicolon.(Åñ­õşÿÿÿÿ
+vjavascript:S3776"URefactor this function to reduce its Cognitive Complexity from 248 to the 15 allowed.(ÕÓ¢½ıÿÿÿÿ
+bjavascript:S2137"ADo not use "undefined" to declare a parameter - use another name.(ÕÓ¢½ıÿÿÿÿ
+[javascript:S1117d":'isEventSupported' is already declared in the upper scope.(Ø—Ãşÿÿÿÿ
+Pjavascript:S1854z"5Remove this useless assignment to variable "element".(–Ó»6
+7javascript:S1186"Unexpected empty function.(ê¹–À
+ajavascript:S3358 "DExtract this nested ternary operation into an independent statement.(œ–Ü²
+Rjavascript:S1121¶"6Extract the assignment of "bool" from this expression.(ÿß–T
+Fjavascript:S1533·")Remove this use of "Boolean" constructor.(Ï Èİ
+Rjavascript:S1121É"6Extract the assignment of "bool" from this expression.(ÿß–T
+Fjavascript:S1533Ê")Remove this use of "Boolean" constructor.(Ï Èİ
+ajavascript:S1121˜"?Extract the assignment of "inputElemType" from this expression.(¥öà¿øÿÿÿÿ
+7javascript:S108«"Empty block statement.(ÇÎ»øıÿÿÿÿ
+Njavascript:S1117Å"1'feature' is already declared in the upper scope.(é¬¸ß
+Wjavascript:S1854â"5Remove this useless assignment to variable "modElem".(à£…¨şÿÿÿÿ
+2javascript:S1116ä"Unnecessary semicolon.(ı¯†E
+Ljavascript:S1117ä"0'window' is already declared in the upper scope.(ı¯†E
+Njavascript:S1117ä"2'document' is already declared in the upper scope.(ı¯†E
+qjavascript:S5843é"TSimplify this regular expression to reduce its complexity from 25 to the 20 allowed.(¶£ÙÀ
+cjavascript:S1121°"FExtract the assignment of "data.cache[nodeName]" from this expression.(ëÕù
+6javascript:S2990«"Remove the use of "this".(…‹•Ò
+wjavascript:S3776­"URefactor this function to reduce its Cognitive Complexity from 159 to the 15 allowed.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+@javascript:S1186­"Unexpected empty function 'f'.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+fjavascript:S3358­"DExtract this nested ternary operation into an independent statement.(£È¿àşÿÿÿÿ
+fjavascript:S3699­"DRemove this use of the output from "h"; "h" doesn't return anything.(£È¿àşÿÿÿÿ
+Ujavascript:S1121­"3Extract the assignment of "q" from this expression.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'c' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'d' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'e' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'f' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'i' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'j' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'k' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'b' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'d' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+9javascript:S2814­"'j' is already defined.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'l' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'o' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'r' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'u' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+Zjavascript:S1121­"8Extract the assignment of "l.data" from this expression.(£È¿àşÿÿÿÿ
+fjavascript:S3358­"DExtract this nested ternary operation into an independent statement.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'b' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'c' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'d' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'f' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+fjavascript:S3358­"DExtract this nested ternary operation into an independent statement.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+9javascript:S2814­"'l' is already defined.(£È¿àşÿÿÿÿ
+9javascript:S2814­"'l' is already defined.(£È¿àşÿÿÿÿ
+fjavascript:S3358­"DExtract this nested ternary operation into an independent statement.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'b' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'b' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+9javascript:S2814­"'a' is already defined.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'b' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'c' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'d' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+9javascript:S2814­"'c' is already defined.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'e' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'f' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'g' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+Ujavascript:S1121­"3Extract the assignment of "e" from this expression.(£È¿àşÿÿÿÿ
+“javascript:S2681­"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(£È¿àşÿÿÿÿ
+“javascript:S2681­"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'g' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'e' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'f' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'g' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'h' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'i' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'j' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+fjavascript:S3358­"DExtract this nested ternary operation into an independent statement.(£È¿àşÿÿÿÿ
+\javascript:S1121­":Extract the assignment of "i.noexec" from this expression.(£È¿àşÿÿÿÿ
+\javascript:S1121­":Extract the assignment of "y[i.url]" from this expression.(£È¿àşÿÿÿÿ
+fjavascript:S3358­"DExtract this nested ternary operation into an independent statement.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'h' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'b' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'c' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'c' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+fjavascript:S3699­"DRemove this use of the output from "g"; "g" doesn't return anything.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'b' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'c' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+“javascript:S2681­"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Ujavascript:S1121­"3Extract the assignment of "j" from this expression.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+Xjavascript:S1121­"6Extract the assignment of "j[n]" from this expression.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'b' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+fjavascript:S3699­"DRemove this use of the output from "g"; "g" doesn't return anything.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'h' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'i' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'j' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'k' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'l' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'m' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'n' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'i' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'j' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'l' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+fjavascript:S3358­"DExtract this nested ternary operation into an independent statement.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'b' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Ujavascript:S1121­"3Extract the assignment of "A" from this expression.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'c' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'d' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'e' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'i' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'j' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'k' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'l' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'o' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+9javascript:S2814­"'e' is already defined.(£È¿àşÿÿÿÿ
+“javascript:S2681­"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'a' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'c' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'d' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'e' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'g' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'i' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+9javascript:S2814­"'e' is already defined.(£È¿àşÿÿÿÿ
+Mjavascript:S1117­"+'j' is already declared in the upper scope.(£È¿àşÿÿÿÿ
+9javascript:S2814­"'c' is already defined.(£È¿àşÿÿÿÿ
+Bjavascript:S878­"!Unexpected use of comma operator.(£È¿àşÿÿÿÿ
+“javascript:S2681­"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(£È¿àşÿÿÿÿ
+gjavascript:S905­"FExpected an assignment or function call and instead saw an expression.(£È¿àşÿÿÿÿ
+8javascript:S1116¯"Unnecessary semicolon.(Åñ­õşÿÿÿÿ

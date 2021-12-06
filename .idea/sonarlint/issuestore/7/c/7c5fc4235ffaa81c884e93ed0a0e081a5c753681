@@ -1,0 +1,46 @@
+
+7javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116!"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+pjavascript:S3776""TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(·Á¹‰
+8javascript:S2685>"Avoid arguments.callee.(œÌ«ÿÿÿÿÿ
+7javascript:S1116A"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116O"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116T"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116["Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116g"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+ujavascript:S3776h"TRefactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.(µŠøÿÿÿÿ
+7javascript:S1116t"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116‡"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+ijavascript:S4138›"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ää¢µ
+8javascript:S1116°"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116±"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116¼"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Æ"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+wjavascript:S5843"USimplify this regular expression to reduce its complexity from 156 to the 20 allowed.(–‡ŞÃùÿÿÿÿ
+Rjavascript:S6035"0Replace this alternation with a character class.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x09.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x0d.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x0a.(–‡ŞÃùÿÿÿÿ
+Rjavascript:S6035"0Replace this alternation with a character class.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x09.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x01.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x08.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x0b.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x0c.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x0e.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x1f.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x01.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x09.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x0b.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x0c.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x0d.(–‡ŞÃùÿÿÿÿ
+Rjavascript:S6035"0Replace this alternation with a character class.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x09.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x0d.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x0a.(–‡ŞÃùÿÿÿÿ
+Rjavascript:S6035"0Replace this alternation with a character class.(–‡ŞÃùÿÿÿÿ
+Fjavascript:S6324"$Remove this control character: \x09.(–‡ŞÃùÿÿÿÿ
+wjavascript:S5843 "USimplify this regular expression to reduce its complexity from 275 to the 20 allowed.(—õã·ÿÿÿÿÿ
+Hjavascript:S1186©"+Unexpected empty method 'onBeforeValidate'.(²˜€ú
+Gjavascript:S1186ª"%Unexpected empty method 'onValidate'.(ãıˆ‡ùÿÿÿÿ

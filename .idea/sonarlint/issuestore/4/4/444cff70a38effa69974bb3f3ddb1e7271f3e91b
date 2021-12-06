@@ -1,0 +1,251 @@
+
+bjavascript:S2137"ADo not use "undefined" to declare a parameter - use another name.(»®Í¯ýÿÿÿÿ
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(œžŸÌûÿÿÿÿ
+Sjavascript:S1121<"7Extract the assignment of "match" from this expression.(£ï°Î
+4javascript:S6331q"Remove this empty group.(Óùè—
+Xjavascript:S5842q"<Rework this part of the regex to not match the empty string.(Óùè—
+bjavascript:S6019q"FFix this reluctant quantifier that will only ever match 0 repetitions.(Óùè—
+ujavascript:S5843|"TSimplify this regular expression to reduce its complexity from 21 to the 20 allowed.(ñÃþ­úÿÿÿÿ
+pjavascript:S5843}"TSimplify this regular expression to reduce its complexity from 55 to the 20 allowed.(šÈÏ—
+vjavascript:S3776Ž"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ÿ”æ«ÿÿÿÿÿ
+Mjavascript:S1117›"+'i' is already declared in the upper scope.(µçëºûÿÿÿÿ
+qjavascript:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 72 to the 15 allowed.(Ëþšâ
+Ejavascript:S1533ê"(Remove this use of "String" constructor.(¢çƒß
+qjavascript:S3776³"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(áâê¥
+pjavascript:S1529’"SReview this use of bitwise "&" operator; conditional "&&" might have been intended.(”£Œ˜
+yjavascript:S2737ž"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(‚Š—£ýÿÿÿÿ
+fjavascript:S3358Ý"DExtract this nested ternary operation into an independent statement.(ÍÊ®¿ûÿÿÿÿ
+;javascript:S125"Remove this commented out code.(–±Ù
+wjavascript:S3776œ"URefactor this function to reduce its Cognitive Complexity from 460 to the 15 allowed.(€›åÇûÿÿÿÿ
+fjavascript:S3686…"JCorrect the use of this function; on line 503 it was called without "new".(¢²™M
+Wjavascript:S1117¡"5'highlighter' is already declared in the upper scope.(ùËêÒýÿÿÿÿ
+8javascript:S1116¤"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+ijavascript:S4138¦"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(€ºÙì
+8javascript:S1116Î"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+Ijavascript:S1125ä"'Remove the unnecessary boolean literal.(ÿ¡Þ ÿÿÿÿÿ
+njavascript:S4138œ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Òèˆëþÿÿÿÿ
+njavascript:S4138Ã"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Òèˆëþÿÿÿÿ
+:javascript:S2814Å"'element' is already defined.(æå–è
+Djavascript:S1125Ð"'Remove the unnecessary boolean literal.(Õ¡‚Ó
+8javascript:S1116"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116š"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116¤"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+ijavascript:S4138°"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ß†ÌÛ
+8javascript:S1116´"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116É"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116Ó"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116Ý"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116ç"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+Ijavascript:S1125ö"'Remove the unnecessary boolean literal.(¿ÎÚ‚øÿÿÿÿ
+8javascript:S1116‰	"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116•	"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116§	"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116¯	"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116Ã	"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116Î	"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116é	"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116
+"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116‹
+"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116”
+"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+hjavascript:S4138´
+"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(š™™I
+8javascript:S1116Á
+"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116Ñ
+"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+qjavascript:S5850Ü
+"TGroup parts of the regex together to make the intended operator precedence explicit.(·„†ã
+8javascript:S1116Ý
+"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+vjavascript:S5850ƒ"TGroup parts of the regex together to make the intended operator precedence explicit.(ÅÐÃÚÿÿÿÿÿ
+8javascript:S1116‘"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116Ã"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116Ô"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116å"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+Xjavascript:S1481ð"6Remove the declaration of the unused 'lines' variable.(ÎŠ™ûÿÿÿÿ
+Ujavascript:S1854ð"3Remove this useless assignment to variable "lines".(ÎŠ™ûÿÿÿÿ
+8javascript:S1116‚"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+Rjavascript:S1117‘"0'spaces' is already declared in the upper scope.(Ñ£Œõûÿÿÿÿ
+8javascript:S1116™"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+Ijavascript:S1125¢"'Remove the unnecessary boolean literal.(åÊ÷÷üÿÿÿÿ
+Ijavascript:S1125¥"'Remove the unnecessary boolean literal.(èòÊ×ûÿÿÿÿ
+8javascript:S1116©"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+qjavascript:S5850³"TGroup parts of the regex together to make the intended operator precedence explicit.(ƒ½—º
+8javascript:S1116´"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+Zjavascript:S1481¾"8Remove the declaration of the unused 'indents' variable.(¨´òÆúÿÿÿÿ
+Wjavascript:S1854¾"5Remove this useless assignment to variable "indents".(¨´òÆúÿÿÿÿ
+4javascript:S2814×"'i' is already defined.(˜ØšÑ
+8javascript:S1116Û"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116ö"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+Qjavascript:S1117‚"/'match' is already declared in the upper scope.(¶¢á¡øÿÿÿÿ
+Ujavascript:S1117‚"3'regexInfo' is already declared in the upper scope.(¶¢á¡øÿÿÿÿ
+8javascript:S1116…"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+Qjavascript:S1481‡"6Remove the declaration of the unused 'index' variable.(ã¿
+8javascript:S1116˜"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+Yjavascript:S1121­"7Extract the assignment of "match" from this expression.(±ÙÆõüÿÿÿÿ
+8javascript:S1116µ"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+ijavascript:S4138Á"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(‡Í÷¢
+8javascript:S1116Æ"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116è"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+Vjavascript:S1854ú"9Remove this useless assignment to variable "highlighter".(´á™„
+ijavascript:S4138…"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(˜ØšÑ
+Mjavascript:S1117—"+'e' is already declared in the upper scope.(»÷®Ôüÿÿÿÿ
+8javascript:S1116œ"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+[javascript:S1481¹">Remove the declaration of the unused 'bracketsRegex' variable.(•äÕ®
+hjavascript:S4138Ã"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(àÆ¦
+ijavascript:S4138Ú"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(êÉ‡ö
+njavascript:S4138é"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ŠÚßÅøÿÿÿÿ
+Mjavascript:S1117é"+'i' is already declared in the upper scope.(ŠÚßÅøÿÿÿÿ
+ijavascript:S4138€"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(êÉ‡ö
+njavascript:S4138³"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ŠÚßÅøÿÿÿÿ
+Djavascript:S1125¤"'Remove the unnecessary boolean literal.(ÖËéø
+Ijavascript:S1125¦"'Remove the unnecessary boolean literal.(‡ƒÝ¬ýÿÿÿÿ
+7javascript:S2814¬"'code' is already defined.(û¡˜Ú
+Wjavascript:S1481À":Remove the declaration of the unused 'padLength' variable.(ßîì™
+Tjavascript:S1854À"7Remove this useless assignment to variable "padLength".(ßîì™
+<javascript:S2814Â"'html' is already defined.(öì½…øÿÿÿÿ
+8javascript:S1116Ì"Unnecessary semicolon.(Åñ­õþÿÿÿÿ
+Ljavascript:S1117ù"/'match' is already declared in the upper scope.(´è×ø
+Rjavascript:S1117û"0'result' is already declared in the upper scope.(—ÌªÍýÿÿÿÿ
+8javascript:S1116ý"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+ijavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(žœâ‡
+Ijavascript:S1125¨"'Remove the unnecessary boolean literal.(¦¨üÍûÿÿÿÿ
+{javascript:S2703«"_Add the "let", "const" or "var" keyword to this declaration of "className" to make it explicit.(¡ã¢
+Djavascript:S1125­"'Remove the unnecessary boolean literal.(˜™Ùç
+~javascript:S2703°"\Add the "let", "const" or "var" keyword to this declaration of "gutter" to make it explicit.(Ä­ÓÓùÿÿÿÿ
+Ijavascript:S1125°"'Remove the unnecessary boolean literal.(Ä­ÓÓùÿÿÿÿ
+Djavascript:S1125À"'Remove the unnecessary boolean literal.(ãÒÏà
+Ijavascript:S1125ž"'Remove the unnecessary boolean literal.(¦¨üÍûÿÿÿÿ
+qjavascript:S5850ª"TGroup parts of the regex together to make the intended operator precedence explicit.(Ôéà
+bjavascript:S905Í"FExpected an assignment or function call and instead saw an expression.(˜ÏÂý
+hjavascript:S1121Í"KExtract the assignment of "exports.SyntaxHighlighter" from this expression.(˜ÏÂý
+8javascript:S1116Ï"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+gjavascript:S6325ë"EUse a regular expression literal instead of the 'RegExp' constructor.(¸ã¶Ãøÿÿÿÿ
+bjavascript:S6325ì"EUse a regular expression literal instead of the 'RegExp' constructor.(‚£üÍ
+8javascript:S1116ð"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905ø"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121ø"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116û"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+wjavascript:S5843œ"USimplify this regular expression to reduce its complexity from 153 to the 20 allowed.(ó§Á†úÿÿÿÿ
+qjavascript:S5843¢"TSimplify this regular expression to reduce its complexity from 25 to the 20 allowed.(…”¥‘
+rjavascript:S5843¥"USimplify this regular expression to reduce its complexity from 811 to the 20 allowed.(ì§òö
+Mjavascript:S6035¥"0Replace this alternation with a character class.(ì§òö
+Mjavascript:S6035¥"0Replace this alternation with a character class.(ì§òö
+Mjavascript:S6035¥"0Replace this alternation with a character class.(ì§òö
+8javascript:S1116¬"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905´"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121´"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116¶"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+bjavascript:S905ß"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121ß"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116á"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+gjavascript:S6325£"EUse a regular expression literal instead of the 'RegExp' constructor.(Äø—¦øÿÿÿÿ
+bjavascript:S905³"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121³"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116µ"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116ü"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905„"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121„"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116†"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116­"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905µ"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121µ"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116·"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116Á"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116Æ"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116ø"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905€"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121€"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116‚"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116Ÿ"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905§"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121§"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116©"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116¸"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905À"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121À"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116Â"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+bjavascript:S6325Ô"EUse a regular expression literal instead of the 'RegExp' constructor.(þ…þ¤
+_javascript:S6353Ô"BUse concise character class syntax '\w' instead of '[A-Za-z0-9_]'.(þ…þ¤
+bjavascript:S6325Õ"EUse a regular expression literal instead of the 'RegExp' constructor.(š‚–Ã
+gjavascript:S6325Ö"EUse a regular expression literal instead of the 'RegExp' constructor.(ŠÛÎÌÿÿÿÿÿ
+djavascript:S6353Ö"BUse concise character class syntax '\w' instead of '[A-Za-z0-9_]'.(ŠÛÎÌÿÿÿÿÿ
+bjavascript:S6325×"EUse a regular expression literal instead of the 'RegExp' constructor.(‰Ò¡Á
+8javascript:S1116Ü"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905ä"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121ä"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116æ"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+bjavascript:S6325‡"EUse a regular expression literal instead of the 'RegExp' constructor.(Œ§âœ
+bjavascript:S905—"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121—"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116™"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116¸"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905À"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121À"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116Â"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+qjavascript:S5843Ý"TSimplify this regular expression to reduce its complexity from 36 to the 20 allowed.(š¦·É
+8javascript:S1116â"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905ê"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121ê"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116ì"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116†"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905Ž"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121Ž"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+bjavascript:S905Û"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121Û"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116Ý"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116›"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905£"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121£"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116¥"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+Djavascript:S1186«""Unexpected empty function 'Brush'.(ÒÌâ–øÿÿÿÿ
+8javascript:S1116¬"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905´"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121´"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116¶"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+ajavascript:S6325Û"EUse a regular expression literal instead of the 'RegExp' constructor.(‹÷åi
+gjavascript:S6325Ü"EUse a regular expression literal instead of the 'RegExp' constructor.(”²ˆåÿÿÿÿÿ
+gjavascript:S6325Ý"EUse a regular expression literal instead of the 'RegExp' constructor.(³Û¶âøÿÿÿÿ
+bjavascript:S6325Þ"EUse a regular expression literal instead of the 'RegExp' constructor.(¸·ú
+ajavascript:S6325à"EUse a regular expression literal instead of the 'RegExp' constructor.(íÕC
+Fjavascript:S5869à"*Remove duplicates in this character class.(íÕC
+gjavascript:S6325ä"EUse a regular expression literal instead of the 'RegExp' constructor.(¥ží½ûÿÿÿÿ
+8javascript:S1116ç"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905ï"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121ï"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116ñ"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+Ljavascript:S5869"*Remove duplicates in this character class.(Í…çËøÿÿÿÿ
+Fjavascript:S5869Ž"*Remove duplicates in this character class.(ÓÔx
+8javascript:S1116—"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905Ÿ"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121Ÿ"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116¡"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+_javascript:S6353·"BUse concise character class syntax '\w' instead of '[A-Za-z0-9_]'.(¼°Ûð
+8javascript:S1116¾"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905Æ"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121Æ"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116È"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116Ò"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116×"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+8javascript:S1116Œ"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905”"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121”"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116–"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+bjavascript:S905·"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121·"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116¹"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116à"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905è"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121è"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116ë"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116‰"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905‘"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121‘"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä
+8javascript:S1116“"Unnecessary semicolon.(²¾¤áùÿÿÿÿ
+8javascript:S1116¾"Unnecessary semicolon.(ôŸŽìúÿÿÿÿ
+bjavascript:S905Æ"FExpected an assignment or function call and instead saw an expression.(ˆ£Ä
+\javascript:S1121Æ"?Extract the assignment of "exports.Brush" from this expression.(ˆ£Ä

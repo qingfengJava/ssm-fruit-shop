@@ -1,0 +1,171 @@
+
+rjavascript:S3776"VRefactor this function to reduce its Cognitive Complexity from 2471 to the 15 allowed.(ø½‹ÿ
+Ujavascript:S1117"4'CodeMirror' is already declared in the upper scope.(öæÇĞÿÿÿÿÿ
+ajavascript:S3358š"DExtract this nested ternary operation into an independent statement.(É‹§Ô
+Rjavascript:S1117ş"0'lineNo' is already declared in the upper scope.(ÿÁ¹²ıÿÿÿÿ
+Pjavascript:S1117Ÿ".'code' is already declared in the upper scope.(æ…ïƒüÿÿÿÿ
+Pjavascript:S1117¥".'code' is already declared in the upper scope.(áÖŸœüÿÿÿÿ
+4javascript:S2814²"'n' is already defined.(£—º’
+˜javascript:S2681Æ"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(§®¯ª
+Mjavascript:S1117ê"+'e' is already declared in the upper scope.(É¬àÓúÿÿÿÿ
+Mjavascript:S1117÷"+'e' is already declared in the upper scope.(¾Åûıÿÿÿÿ
+5javascript:S2814ü"'up' is already defined.(§ÿ‚™
+Hjavascript:S1117ü"+'e' is already declared in the upper scope.(§ÿ‚™
+Hjavascript:S1117”"+'i' is already declared in the upper scope.(¶şÎø
+Jjavascript:S1117›"-'end' is already declared in the upper scope.(ØûÊí
+<javascript:S2814§"'text' is already defined.(¾½›ßüÿÿÿÿ
+Mjavascript:S1117°"+'e' is already declared in the upper scope.(ù èãùÿÿÿÿ
+Pjavascript:S1117Ú".'code' is already declared in the upper scope.(Ş„’Úÿÿÿÿÿ
+8javascript:S2814Å"'added' is already defined.(›ÕÀ
+4javascript:S2814Æ"'i' is already defined.(öÀ©²
+4javascript:S2814Æ"'e' is already defined.(öÀ©²
+8javascript:S2814Ñ"'added' is already defined.(›ÕÀ
+4javascript:S2814Õ"'i' is already defined.(öÀ©²
+4javascript:S2814Õ"'e' is already defined.(öÀ©²
+Hjavascript:S1117ã"+'l' is already declared in the upper scope.(£±’
+Hjavascript:S1117ì"+'l' is already declared in the upper scope.(£±’
+4javascript:S2814÷"'i' is already defined.(¬Áâ­
+7javascript:S108…"Empty block statement.(‚şÿÿÿÿ
+Kjavascript:S1117‘".'code' is already declared in the upper scope.(ÛÏ™–
+Kjavascript:S1117¥".'code' is already declared in the upper scope.(ÂÁÍÕ
+Pjavascript:S1117¬".'code' is already declared in the upper scope.(¶¯û„üÿÿÿÿ
+Kjavascript:S1117µ".'code' is already declared in the upper scope.(à¿¥»
+Mjavascript:S1117ÿ"0'cursor' is already declared in the upper scope.(˜ƒ§á
+Njavascript:S1117¤"1'changes' is already declared in the upper scope.(“å®¦
+@javascript:S2310»"Remove this assignment of "i".(Š‘…Òùÿÿÿÿ
+Sjavascript:S1117ó"1'changes' is already declared in the upper scope.(¡÷œÈûÿÿÿÿ
+Ojavascript:S1481“"2Remove the declaration of the unused 'n' variable.(¤ÚŸ¼
+njavascript:S4138”"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¥ãªÔûÿÿÿÿ
+:javascript:S2814œ"'curNode' is already defined.(§èœ—
+4javascript:S2814œ"'j' is already defined.(§èœ—
+Tjavascript:S1481"7Remove the declaration of the unused 'newElt' variable.(íîø
+Ujavascript:S1481Ó"3Remove the declaration of the unused 'lh' variable.(ò‹­Øøÿÿÿÿ
+Rjavascript:S1854Ó"0Remove this useless assignment to variable "lh".(ò‹­Øøÿÿÿÿ
+Kjavascript:S1117".'line' is already declared in the upper scope.(¨ÁŠ¬
+kjavascript:S888¾"OReplace '!=' operator with one of '<=', '>=', '<', or '>' comparison operators.(Çà©›
+Kjavascript:S1117÷".'mode' is already declared in the upper scope.(›Ä†¬
+?javascript:S2814•	""'indentString' is already defined.(Œ€°³
+njavascript:S4138İ	"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ğÖâùÿÿÿÿ
+Pjavascript:S1117ğ	".'from' is already declared in the upper scope.(÷Ò¾ˆûÿÿÿÿ
+Njavascript:S1117ğ	",'to' is already declared in the upper scope.(÷Ò¾ˆûÿÿÿÿ
+Ujavascript:S1117ğ	"3'className' is already declared in the upper scope.(÷Ò¾ˆûÿÿÿÿ
+_javascript:S1121ª
+"=Extract the assignment of "gutterDirty" from this expression.(Š²×øÿÿÿÿ
+3javascript:S2814·
+"'n' is already defined.(ÁÌŠi
+@javascript:S1481Æ
+"#Remove unused function 'charFromX'.(¹Úìı
+fjavascript:S3358è
+"DExtract this nested ternary operation into an independent statement.(ÖµªÏøÿÿÿÿ
+Rjavascript:S1117†"0'lineNo' is already declared in the upper scope.(Üäíêùÿÿÿÿ
+_javascript:S1121¿"=Extract the assignment of "cachedWidth" from this expression.(ßƒ§şÿÿÿÿ
+Hjavascript:S1117Ç"+'e' is already declared in the upper scope.(Ş Èª
+Qjavascript:S1121û"4Extract the assignment of "on" from this expression.(ĞËÕ¾
+Pjavascript:S1481„"3Remove the declaration of the unused 'ch' variable.(îŞŞè
+Mjavascript:S1854„"0Remove this useless assignment to variable "ch".(îŞŞè
+Jjavascript:S1117‰".'line' is already declared in the upper scope.(†ìÇ
+Ijavascript:S1117‹",'st' is already declared in the upper scope.(ÑÊ¤¼
+Jjavascript:S1117‹"-'pos' is already declared in the upper scope.(ÑÊ¤¼
+Mjavascript:S1117Œ"+'i' is already declared in the upper scope.(½­­¯úÿÿÿÿ
+Mjavascript:S1117Œ"+'e' is already declared in the upper scope.(½­­¯úÿÿÿÿ
+pjavascript:S888Œ"OReplace '!=' operator with one of '<=', '>=', '<', or '>' comparison operators.(½­­¯úÿÿÿÿ
+kjavascript:S888"OReplace '!=' operator with one of '<=', '>=', '<', or '>' comparison operators.(ßÂä
+Wjavascript:S1121"5Extract the assignment of "cur" from this expression.(·İá¸úÿÿÿÿ
+Ljavascript:S1117‘"/'match' is already declared in the upper scope.(ş¯¢ù
+9javascript:S2814™"'i' is already defined.(Ğ»àşÿÿÿÿ
+9javascript:S2814™"'e' is already defined.(Ğ»àşÿÿÿÿ
+pjavascript:S888™"OReplace '!=' operator with one of '<=', '>=', '<', or '>' comparison operators.(Ğ»àşÿÿÿÿ
+7javascript:S2814š"'line' is already defined.(ÿåªË
+8javascript:S2814Ÿ"'style' is already defined.(ßî´¬
+<javascript:S2814Ò"'task' is already defined.(Ÿá—ªÿÿÿÿÿ
+ajavascript:S1515Ú"?Make sure this function is not called after the loop completes.(†ĞÅ¢úÿÿÿÿ
+Sjavascript:S1121à"6Extract the assignment of "bail" from this expression.(·’Ö…
+ijavascript:S4138š"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÕŠÑ‡
+Vjavascript:S1481Ğ"4Remove the declaration of the unused 'win' variable.(í¹Ğíÿÿÿÿÿ
+Sjavascript:S1854Ğ"1Remove this useless assignment to variable "win".(í¹Ğíÿÿÿÿÿ
+8javascript:S2814á"'mname' is already defined.(±Şõ
+9javascript:S2814á"'config' is already defined.(±Şõ
+Pjavascript:S1117Ï".'name' is already declared in the upper scope.(·²Ÿ¦ıÿÿÿÿ
+Ojavascript:S1117Ï"-'map' is already declared in the upper scope.(·²Ÿ¦ıÿÿÿÿ
+:javascript:S2814¯"'ok' is already defined.(ñşÑ¾şÿÿÿÿ
+7javascript:S108´"Empty block statement.(ñ‡İùÿÿÿÿ
+hjavascript:S4138¢"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ñ¡Âx
+@javascript:S2310¹"Remove this assignment of "i".(«¡…Õùÿÿÿÿ
+hjavascript:S4138Ã"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ñ¡Âx
+ijavascript:S4138Ó"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(œ‘‰Ú
+Xjavascript:S1119Ø";Refactor the code to remove this label and the need for it.(İ¦‘
+4javascript:S2814Ø"'i' is already defined.(İ¦‘
+ijavascript:S4138Û"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(áœ£ˆ
+;javascript:S2310á"Remove this assignment of "i".(ßµ°Ã
+hjavascript:S4138ñ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ñ¡Âx
+njavascript:S4138ô"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(şì‡­ûÿÿÿÿ
+ijavascript:S4138ı"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(üÎé‹
+Pjavascript:S1117º".'text' is already declared in the upper scope.(¡¼ØÍüÿÿÿÿ
+Qjavascript:S1117º"/'style' is already declared in the upper scope.(¡¼ØÍüÿÿÿÿ
+hjavascript:S1994Ê"KThis loop's stop condition tests "ch, len" but the incrementer updates "i".(ğŞÍ¥
+4javascript:S2814Ñ"'i' is already defined.(å¾¹Ë
+8javascript:S2814Ñ"'style' is already defined.(å¾¹Ë
+Pjavascript:S1481Ñ"3Remove the declaration of the unused 'sg' variable.(å¾¹Ë
+hjavascript:S1994ƒ"KThis loop's stop condition tests "pos, to" but the incrementer updates "i".(ş–Ø
+hjavascript:S4138£"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¤İôt
+;javascript:S2310Ê"Remove this assignment of "i".(ª¡©¥
+Ojavascript:S1481¤"2Remove the declaration of the unused 'e' variable.(Æ¹Ò€
+Ljavascript:S1854¤"/Remove this useless assignment to variable "e".(Æ¹Ò€
+Xjavascript:S1119­";Refactor the code to remove this label and the need for it.(±ş‰Å
+9javascript:S2814¶"'i' is already defined.(ĞëŠóúÿÿÿÿ
+9javascript:S2814¶"'e' is already defined.(ĞëŠóúÿÿÿÿ
+Xjavascript:S1119¿";Refactor the code to remove this label and the need for it.(±ş‰Å
+9javascript:S2814È"'i' is already defined.(èı”Áùÿÿÿÿ
+4javascript:S2814å"'i' is already defined.(âÓ¸”
+Wjavascript:S1854¨"5Remove this useless assignment to variable "lineSep".(ƒ€…®úÿÿÿÿ
+Rjavascript:S1854­"5Remove this useless assignment to variable "lineSep".(Ä€”
+=javascript:S878Ì"!Unexpected use of comma operator.(Ş©İŒ
+4javascript:S2814Ñ"'n' is already defined.(ıîš
+4javascript:S2814Ã"'i' is already defined.(Ú‡‡Ê
+4javascript:S2814Å"'i' is already defined.(æäØ®
+wjavascript:S3776Ê"URefactor this function to reduce its Cognitive Complexity from 163 to the 15 allowed.(ê™Ä…úÿÿÿÿ
+Ljavascript:S5869æ"*Remove duplicates in this character class.(Íˆ‰õùÿÿÿÿ
+Ljavascript:S5869ì"*Remove duplicates in this character class.(Íˆ‰õùÿÿÿÿ
+Sjavascript:S1117Ğ"1'tagName' is already declared in the upper scope.(›ˆĞÛùÿÿÿÿ
+Jjavascript:S1117Ş".'type' is already declared in the upper scope.(ÃÅûi
+Pjavascript:S1117ï".'type' is already declared in the upper scope.(šÏ½Òøÿÿÿÿ
+Pjavascript:S1117ø".'type' is already declared in the upper scope.(šÏ½Òøÿÿÿÿ
+9javascript:S2685ü"Avoid arguments.callee.(ŒÆöşÿÿÿÿ
+Pjavascript:S1117€".'type' is already declared in the upper scope.(í£İ—ÿÿÿÿÿ
+Pjavascript:S1117†".'type' is already declared in the upper scope.(ËÿˆÕüÿÿÿÿ
+Kjavascript:S1117‹".'type' is already declared in the upper scope.(†ş€Ø
+Pjavascript:S1117Í".'type' is already declared in the upper scope.(Ú£Ñûûÿÿÿÿ
+Kjavascript:S1117ï".'cont' is already declared in the upper scope.( ‰¿³
+qjavascript:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(²äĞ
+Gjavascript:S5869"*Remove duplicates in this character class.(·÷Šµ
+Pjavascript:S1117¼".'type' is already declared in the upper scope.(§³ñµıÿÿÿÿ
+qjavascript:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(©»´¨
+Kjavascript:S1117Ê".'type' is already declared in the upper scope.(©»´¨
+Njavascript:S1117Ê"1'content' is already declared in the upper scope.(©»´¨
+<javascript:S878Î"!Unexpected use of comma operator.(åÌ†
+ajavascript:S3358Ô"DExtract this nested ternary operation into an independent statement.(àÇ İ
+Pjavascript:S1117ş".'type' is already declared in the upper scope.(´ôøŞşÿÿÿÿ
+Kjavascript:S1117‘".'type' is already declared in the upper scope.( ş‘£
+9javascript:S2685”"Avoid arguments.callee.(•×æĞüÿÿÿÿ
+Kjavascript:S1117˜".'type' is already declared in the upper scope.(¥¼²Ë
+Pjavascript:S1117ª".'type' is already declared in the upper scope.(ˆÁ…Êÿÿÿÿÿ
+Kjavascript:S1117´".'type' is already declared in the upper scope.(£ñŸÎ
+Kjavascript:S1117¹".'type' is already declared in the upper scope.(ü«ÄË
+Kjavascript:S1117Á".'type' is already declared in the upper scope.(Ø’‹¯
+Jjavascript:S1117Å".'type' is already declared in the upper scope.(€ßË	
+Pjavascript:S1117È".'type' is already declared in the upper scope.(ÎÎ‰‚ıÿÿÿÿ
+Pjavascript:S1117Í".'type' is already declared in the upper scope.(Ú¼Š‡şÿÿÿÿ
+Kjavascript:S1117Ò".'type' is already declared in the upper scope.(ìŠÖ¤
+Kjavascript:S1117×".'type' is already declared in the upper scope.(í‹×¨
+Kjavascript:S1117Û".'type' is already declared in the upper scope.(‚Š¡Ş
+Pjavascript:S1117ß".'type' is already declared in the upper scope.(ëÜÒıÿÿÿÿ
+Pjavascript:S1117ã".'type' is already declared in the upper scope.(æáÙúÿÿÿÿ
+Pjavascript:S1117é".'type' is already declared in the upper scope.(ç‚Ì·ùÿÿÿÿ
+Pjavascript:S1117í".'type' is already declared in the upper scope.(ÅÆµùıÿÿÿÿ
+Pjavascript:S1117ò".'type' is already declared in the upper scope.(õâöáÿÿÿÿÿ
+Pjavascript:S1117õ".'type' is already declared in the upper scope.(ğÆº¯ıÿÿÿÿ
+Kjavascript:S1117ù".'type' is already declared in the upper scope.(»ŞñÚ
+vjavascript:S3776›"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ñİ§Òúÿÿÿÿ
+Kjavascript:S1117".'type' is already declared in the upper scope.(Ó³úš
+qjavascript:S3776³"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ş²Î°
+qjavascript:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(½«ËÓ

@@ -1,0 +1,18 @@
+
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(úÇ¢Çøÿÿÿÿ
+7javascript:S11166"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Njavascript:S1117="-'row' is already declared in the upper scope.(‡ÿ¼Øşÿÿÿÿ
+7javascript:S1116H"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+pjavascript:S3776I"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¬ˆê‘
+8javascript:S1116…"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116†"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+qjavascript:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.( ¤İ 
+Hjavascript:S1117•"+'q' is already declared in the upper scope.(ÓÑ†±
+8javascript:S1116¶"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116¹"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Ojavascript:S1481õ"2Remove the declaration of the unused 't' variable.(îöüş
+Ljavascript:S1854õ"/Remove this useless assignment to variable "t".(îöüş
+?javascript:S1186ø"Unexpected empty method 'up'.(¼Âòùúÿÿÿÿ
+<javascript:S1186ù"Unexpected empty method 'down'.(ùè–€
+<javascript:S1186ú"Unexpected empty method 'left'.(¦èƒÚ
+Bjavascript:S1186û" Unexpected empty method 'right'.(¾ŞÍ¿ùÿÿÿÿ

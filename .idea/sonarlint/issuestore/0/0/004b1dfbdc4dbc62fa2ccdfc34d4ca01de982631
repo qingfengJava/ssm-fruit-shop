@@ -1,0 +1,23 @@
+
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ğû‚áúÿÿÿÿ
+ujavascript:S3776B"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(¶ê•¸øÿÿÿÿ
+mjavascript:S4138M"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ó÷Ÿæüÿÿÿÿ
+`javascript:S3358\"DExtract this nested ternary operation into an independent statement.(Ìâ
+:javascript:S125y"Remove this commented out code.(íœıÔ
+?javascript:S125{"Remove this commented out code.(³ŸÜºÿÿÿÿÿ
+Rjavascript:S1481Œ"5Remove the declaration of the unused 'opts' variable.(ã›È¯
+Ojavascript:S1854Œ"2Remove this useless assignment to variable "opts".(ã›È¯
+7javascript:S1186¿"Unexpected empty function.(…îÜû
+7javascript:S2814æ"'page' is already defined.(¬„óœ
+Jjavascript:S1117ù"-'top' is already declared in the upper scope.(ß¥ƒ¦
+Pjavascript:S1117û".'page' is already declared in the upper scope.(©á¬ãùÿÿÿÿ
+njavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ó÷Ÿæüÿÿÿÿ
+9javascript:S2814›"'t' is already defined.(ø‰‰Ëıÿÿÿÿ
+@javascript:S125·"Remove this commented out code.(Ò§³ªúÿÿÿÿ
+Ijavascript:S1125Ç"'Remove the unnecessary boolean literal.(”›ù…øÿÿÿÿ
+7javascript:S2814Ì"'data' is already defined.(„Ü«Ä
+@javascript:S125Ğ"Remove this commented out code.(åÙÂ°ÿÿÿÿÿ
+Djavascript:S1125Õ"'Remove the unnecessary boolean literal.(ğ¤œÖ
+;javascript:S125ä"Remove this commented out code.(™šı
+Ujavascript:S1481š"3Remove the declaration of the unused 'dc' variable.(¦Ú„Œüÿÿÿÿ
+Rjavascript:S1854š"0Remove this useless assignment to variable "dc".(¦Ú„Œüÿÿÿÿ

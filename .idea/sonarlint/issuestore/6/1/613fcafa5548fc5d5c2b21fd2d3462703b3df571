@@ -1,0 +1,32 @@
+
+ojavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(œ½¥N
+Cjavascript:S1125"'Remove the unnecessary boolean literal.(Î—Èæ
+7javascript:S11166"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+pjavascript:S37767"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(á‡‹¡
+7javascript:S1116T"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116c"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116†"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116‡"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+vjavascript:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(ÅËÑ÷şÿÿÿÿ
+Djavascript:S1125£"'Remove the unnecessary boolean literal.(“¬È
+8javascript:S1116¼"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Ó"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+cjavascript:S1126Õ"AReplace this if-then-else statement by a single return statement.(ì´øûÿÿÿÿÿ
+8javascript:S1116Ú"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+ijavascript:S4138Ş"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(À¯ë²
+8javascript:S1116ì"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116í"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+qjavascript:S3776î"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(†¸í’
+8javascript:S1116•"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116¢"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116½"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Æ"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Ğ"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Õ"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Bjavascript:S1186"%Unexpected empty method 'onProgress'.(¼ ÇÓ
+Djavascript:S1186""Unexpected empty method 'success'.(Ïîšüÿÿÿÿ
+Ijavascript:S1186"'Unexpected empty method 'onBeforeLoad'.(Ë§÷îşÿÿÿÿ
+Ejavascript:S1186"(Unexpected empty method 'onLoadSuccess'.(ß•‡
+Hjavascript:S1186‘"&Unexpected empty method 'onLoadError'.(¦Ù¥—ıÿÿÿÿ
+Ejavascript:S1186’"#Unexpected empty method 'onChange'.(×íÏ´ıÿÿÿÿ

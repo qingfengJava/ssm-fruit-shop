@@ -1,0 +1,134 @@
+
+7javascript:S1186ª"Unexpected empty function.(ÙûÀ­
+<javascript:S1186Ã"Unexpected empty function.(«Æ¶‡úÿÿÿÿ
+qjavascript:S3776‰"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(µ×§Ç
+Hjavascript:S1117È"+'t' is already declared in the upper scope.(‹»ì³
+@javascript:S2310â"Remove this assignment of "n".(·§¢èüÿÿÿÿ
+@javascript:S125‡"Remove this commented out code.(ÂÜí¸üÿÿÿÿ
+qjavascript:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(˜ÂîÜ
+Vjavascript:S1135ª"4Complete the task associated to this "TODO" comment.(ˆƒÎşÿÿÿÿ
+fjavascript:S3358ğ"DExtract this nested ternary operation into an independent statement.(Ç¢é–ıÿÿÿÿ
+fjavascript:S3358ñ"DExtract this nested ternary operation into an independent statement.(àÇš¦ûÿÿÿÿ
+;javascript:S125°"Remove this commented out code.(©â—Á
+;javascript:S125·"Remove this commented out code.(¦‰å‡
+;javascript:S125¼"Remove this commented out code.(ª»ï
+;javascript:S1186"Unexpected empty function 'F'.(ñ§î
+Hjavascript:S1117ÿ"+'i' is already declared in the upper scope.(»›Ë
+Mjavascript:S1117ä"+'i' is already declared in the upper scope.(·íùúÿÿÿÿ
+vjavascript:S5850å"TGroup parts of the regex together to make the intended operator precedence explicit.(‡­İ¤ùÿÿÿÿ
+qjavascript:S3776	"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(¾Æá
+Mjavascript:S1117Ú
+"+'i' is already declared in the upper scope.(£š ñúÿÿÿÿ
+ajavascript:S905‰"FExpected an assignment or function call and instead saw an expression.(æ×ş$
+ajavascript:S1121·"?Extract the assignment of "this.options_" from this expression.(‡Øıÿÿÿÿ
+gjavascript:S905À"FExpected an assignment or function call and instead saw an expression.(ïãçÜÿÿÿÿÿ
+gjavascript:S905ß"FExpected an assignment or function call and instead saw an expression.(ï†ÀÀşÿÿÿÿ
+bjavascript:S905ñ"FExpected an assignment or function call and instead saw an expression.(çıâ®
+gjavascript:S905„"FExpected an assignment or function call and instead saw an expression.(©Ÿ¿Éúÿÿÿÿ
+gjavascript:S905—"FExpected an assignment or function call and instead saw an expression.(ò€­”úÿÿÿÿ
+bjavascript:S905ª"FExpected an assignment or function call and instead saw an expression.(ŠîöÃ
+ajavascript:S905»"FExpected an assignment or function call and instead saw an expression.(¿ÜÔ 
+Yjavascript:S1481ã"<Remove the declaration of the unused 'componentId' variable.(’€ 
+Mjavascript:S1117¤"+'i' is already declared in the upper scope.(£š ñúÿÿÿÿ
+gjavascript:S905±"FExpected an assignment or function call and instead saw an expression.(‹Îîæùÿÿÿÿ
+gjavascript:S905Å"FExpected an assignment or function call and instead saw an expression.(ÿ¿û¼úÿÿÿÿ
+Mjavascript:S1117ê"+'i' is already declared in the upper scope.(•ğùùÿÿÿÿ
+<javascript:S1186À"Unexpected empty function.(°èéøşÿÿÿÿ
+Vjavascript:S1135œ"4Complete the task associated to this "TODO" comment.(—âÓŠúÿÿÿÿ
+@javascript:S125¨"Remove this commented out code.(ÄŒ‡üÿÿÿÿ
+bjavascript:S905´"FExpected an assignment or function call and instead saw an expression.(¢õıÑ
+Vjavascript:S1135Ğ"4Complete the task associated to this "TODO" comment.(î¯½šúÿÿÿÿ
+Vjavascript:S1135œ"4Complete the task associated to this "TODO" comment.(¼÷¼şÿÿÿÿ
+7javascript:S1186¡"Unexpected empty function.(§÷Šş
+njavascript:S4138«"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ïœ½øÿÿÿÿ
+Mjavascript:S1117«"+'i' is already declared in the upper scope.(Ïœ½øÿÿÿÿ
+<javascript:S1186¶"Unexpected empty function.(­Ã’üÿÿÿÿ
+7javascript:S1186Á"Unexpected empty function.(«…²¦
+6javascript:S1186Ã"Unexpected empty function.(ŸçÁI
+Vjavascript:S1135·"4Complete the task associated to this "TODO" comment.(ÎŸƒ…úÿÿÿÿ
+Gjavascript:S1117’"+'i' is already declared in the upper scope.(…µÙz
+Mjavascript:S1117±"+'i' is already declared in the upper scope.(•üÔÍıÿÿÿÿ
+Qjavascript:S1135Ö"4Complete the task associated to this "TODO" comment.(¿‘‘
+bjavascript:S905Š"FExpected an assignment or function call and instead saw an expression.(õ–ù½
+bjavascript:S905"FExpected an assignment or function call and instead saw an expression.(¨ûÂ’
+gjavascript:S905–"FExpected an assignment or function call and instead saw an expression.(à½‘ƒüÿÿÿÿ
+gjavascript:S905œ"FExpected an assignment or function call and instead saw an expression.(ŞÃÕƒøÿÿÿÿ
+bjavascript:S905Ê"FExpected an assignment or function call and instead saw an expression.(ãÎÆÉ
+bjavascript:S905ï"FExpected an assignment or function call and instead saw an expression.(áÚ–”
+ajavascript:S905Œ"FExpected an assignment or function call and instead saw an expression.(Ì¯Ä]
+8javascript:S3626À"Remove this redundant jump.(ûÁİ…
+fjavascript:S1121…"IExtract the assignment of "this.cache_.currentTime" from this expression.(Ğßúâ
+9javascript:S2685·"Avoid arguments.callee.(Óõ¢şÿÿÿÿ
+Hjavascript:S1117“"+'i' is already declared in the upper scope.(ŠÊœ†
+qjavascript:S3776Ç"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(í ¶Ï
+gjavascript:S905ª"FExpected an assignment or function call and instead saw an expression.(‹™Éúÿÿÿÿ
+gjavascript:S905È"FExpected an assignment or function call and instead saw an expression.(“ùÒ€üÿÿÿÿ
+gjavascript:S905ä"FExpected an assignment or function call and instead saw an expression.(Ù†âÄÿÿÿÿÿ
+Qjavascript:S1135«"4Complete the task associated to this "TODO" comment.(…ïœ†
+vjavascript:S4144Ö "YUpdate this function so that its implementation is not identical to the one on line 4146.(Á¡ì¥
+vjavascript:S4144’!"YUpdate this function so that its implementation is not identical to the one on line 4146.(Á¡ì¥
+vjavascript:S4144»$"YUpdate this function so that its implementation is not identical to the one on line 4524.(¸‘Ò€
+Qjavascript:S1135é$"4Complete the task associated to this "TODO" comment.(óÇ¬ó
+Hjavascript:S1117ê$"+'i' is already declared in the upper scope.(ÎÙõ˜
+Hjavascript:S2814½&"&'activateControls' is already defined.(®È»Ãûÿÿÿÿ
+Qjavascript:S1117¿'"4'methodName' is already declared in the upper scope.(İ•æí
+Sjavascript:S1481("6Remove the declaration of the unused 'newEl' variable.(œ‹ß
+Mjavascript:S1117ª("+'i' is already declared in the upper scope.(·íùúÿÿÿÿ
+;javascript:S125²("Remove this commented out code.(òü‰µ
+Hjavascript:S1117¸("+'i' is already declared in the upper scope.(ê’ñé
+@javascript:S125ï("Remove this commented out code.(éµìıùÿÿÿÿ
+Vjavascript:S1135À)"4Complete the task associated to this "TODO" comment.(“Ï‡üüÿÿÿÿ
+vjavascript:S3776ş)"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(óß’‹ùÿÿÿÿ
+Vjavascript:S1135*"4Complete the task associated to this "TODO" comment.(¡ğôùÿÿÿÿ
+Ljavascript:S1117¨+"0'player' is already declared in the upper scope.(øš K
+Rjavascript:S1117´+"0'player' is already declared in the upper scope.(ÃæíÜùÿÿÿÿ
+Mjavascript:S1117¦,"+'i' is already declared in the upper scope.(ª±²úüÿÿÿÿ
+@javascript:S125·,"Remove this commented out code.(æ¯Êöşÿÿÿÿ
+Mjavascript:S1117™."+'i' is already declared in the upper scope.(Ş÷˜üÿÿÿÿ
+gjavascript:S905¼."FExpected an assignment or function call and instead saw an expression.(…óÉ¦şÿÿÿÿ
+Qjavascript:S1135å."4Complete the task associated to this "TODO" comment.(ŸÕ
+ijavascript:S4138ø."LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(û·•è
+Hjavascript:S1117ø."+'i' is already declared in the upper scope.(û·•è
+Mjavascript:S1117„/"+'i' is already declared in the upper scope.(ÈÖ§ıÿÿÿÿ
+fjavascript:S3358–/"DExtract this nested ternary operation into an independent statement.(ã»•´ùÿÿÿÿ
+bjavascript:S905Æ/"FExpected an assignment or function call and instead saw an expression.(«â«È
+ajavascript:S905Ô/"FExpected an assignment or function call and instead saw an expression.(ÚÜÙt
+gjavascript:S905ã/"FExpected an assignment or function call and instead saw an expression.(‰ˆµ¼ùÿÿÿÿ
+gjavascript:S905ñ/"FExpected an assignment or function call and instead saw an expression.(‹Ûµùøÿÿÿÿ
+bjavascript:S905€0"FExpected an assignment or function call and instead saw an expression.(ñïê
+bjavascript:S9050"FExpected an assignment or function call and instead saw an expression.(Æüæú
+gjavascript:S9050"FExpected an assignment or function call and instead saw an expression.(÷§ÀÓøÿÿÿÿ
+gjavascript:S905­0"FExpected an assignment or function call and instead saw an expression.(²¹éûÿÿÿÿÿ
+gjavascript:S905À0"FExpected an assignment or function call and instead saw an expression.(Š®öÅúÿÿÿÿ
+gjavascript:S905Ò0"FExpected an assignment or function call and instead saw an expression.(ªÁ¢»úÿÿÿÿ
+Qjavascript:S1135ì1"4Complete the task associated to this "TODO" comment.(Ğ±«‡
+Mjavascript:S1117ò1"+'i' is already declared in the upper scope.(Ğ«Ï®ıÿÿÿÿ
+;javascript:S2310ş1"Remove this assignment of "i".(£õúÜ
+@javascript:S2310“2"Remove this assignment of "i".(ûº£Âşÿÿÿÿ
+Vjavascript:S1135µ2"4Complete the task associated to this "TODO" comment.(ĞüÇÿÿÿÿÿ
+Mjavascript:S6035º2"0Replace this alternation with a character class.(ÿ½ƒƒ
+pjavascript:S3776Ì2"TRefactor this function to reduce its Cognitive Complexity from 76 to the 15 allowed.(Æ­°O
+Mjavascript:S1117ß2"+'i' is already declared in the upper scope.(œ•Í¨ùÿÿÿÿ
+Mjavascript:S1117»3"+'i' is already declared in the upper scope.(…ı˜ğÿÿÿÿÿ
+Hjavascript:S1117À4"+'i' is already declared in the upper scope.(²°Ş‹
+@javascript:S125İ4"Remove this commented out code.(–äôŠıÿÿÿÿ
+;javascript:S125ß4"Remove this commented out code.(ä­º
+@javascript:S125é4"Remove this commented out code.(¯¿ú•üÿÿÿÿ
+@javascript:S125ë4"Remove this commented out code.(÷›Š¼øÿÿÿÿ
+;javascript:S125ğ4"Remove this commented out code.(©¾›º
+;javascript:S125ó4"Remove this commented out code.(Æ·áì
+ijavascript:S4138ı4"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¬Ö‹ï
+Hjavascript:S1117ı4"+'i' is already declared in the upper scope.(¬Ö‹ï
+ijavascript:S4138¿5"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¬Ö‹ï
+Hjavascript:S1117¿5"+'i' is already declared in the upper scope.(¬Ö‹ï
+Mjavascript:S1117Í5"+'i' is already declared in the upper scope.(ÈÖ§ıÿÿÿÿ
+@javascript:S125 6"Remove this commented out code.(ä¥¨œıÿÿÿÿ
+@javascript:S125«6"Remove this commented out code.(Ê€·êüÿÿÿÿ
+gjavascript:S905À6"FExpected an assignment or function call and instead saw an expression.(âü¸ÿÿÿÿÿ
+Cjavascript:S6324È6"&Remove this control character: \u0000.(Õéô‰
+ajavascript:S5868È6"DMove this Unicode combined character '\u070f\u17b4' outside of [...](Õéô‰
+qjavascript:S3776Ğ6"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ûè÷È
+vjavascript:S5843î6"TSimplify this regular expression to reduce its complexity from 26 to the 20 allowed.(Óêóûúÿÿÿÿ
+qjavascript:S3776€7"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(´İÈö
+Mjavascript:S1117‡7"+'i' is already declared in the upper scope.(±‚ı•ùÿÿÿÿ
+Vjavascript:S1854›7"4Remove this useless assignment to variable "player".(¦´»½ıÿÿÿÿ

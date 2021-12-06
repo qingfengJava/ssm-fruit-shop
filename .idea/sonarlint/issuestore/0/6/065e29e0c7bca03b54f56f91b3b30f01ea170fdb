@@ -1,0 +1,131 @@
+
+rjavascript:S3776"VRefactor this function to reduce its Cognitive Complexity from 3100 to the 15 allowed.(ˆè²Ô
+ajavascript:S2137"@Do not use "undefined" to declare a variable - use another name.(Æø”‡øÿÿÿÿ
+ujavascript:S3973R"YUse curly braces or indentation to denote the code conditionally executed by this "else".(”Ó‰ 
+Ijavascript:S1117k"-'num' is already declared in the upper scope.(î¸Ë÷
+Qjavascript:S1117¹"/'clone' is already declared in the upper scope.(ÿÏ‡¼ıÿÿÿÿ
+Mjavascript:S1117Î"0'events' is already declared in the upper scope.(íõâ©
+Rjavascript:S1117Ì"0'values' is already declared in the upper scope.(¨‘‡ƒûÿÿÿÿ
+ajavascript:S3358İ"DExtract this nested ternary operation into an independent statement.(•ßà¬
+Ijavascript:S1264¢",Replace this "for" loop with a "while" loop.(²ë¬©
+2javascript:S108®"Empty block statement.(Ÿìé¶
+<javascript:S2814ä"'name' is already defined.(–—ãşÿÿÿÿ
+Hjavascript:S1117Ô"+'i' is already declared in the upper scope.(™èÄï
+`javascript:S3358‘"DExtract this nested ternary operation into an independent statement.(îß‹
+gjavascript:S905Ğ"FExpected an assignment or function call and instead saw an expression.(öÇ…Õøÿÿÿÿ
+Cjavascript:S3696×"&Expected an error object to be thrown.(ÛêÅ
+ajavascript:S3358æ"DExtract this nested ternary operation into an independent statement.(ÔÈŞí
+fjavascript:S3358è"DExtract this nested ternary operation into an independent statement.(”ô£şşÿÿÿÿ
+vjavascript:S5850"TGroup parts of the regex together to make the intended operator precedence explicit.(ˆ¼Åƒùÿÿÿÿ
+yjavascript:S3973ì
+"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ûÅÅÿşÿÿÿÿ
+qjavascript:S5843ı
+"TSimplify this regular expression to reduce its complexity from 75 to the 20 allowed.(ë¯­â
+Tjavascript:S1117ÿ
+"2'toString' is already declared in the upper scope.(Š“Ä²ÿÿÿÿÿ
+Sjavascript:S1481Œ"6Remove the declaration of the unused 'check' variable.(õˆÍ
+Rjavascript:S1481Œ"5Remove the declaration of the unused 'mode' variable.(õˆÍ
+fjavascript:S3358®"DExtract this nested ternary operation into an independent statement.(×£’¾üÿÿÿÿ
+Cjavascript:S3696Í"&Expected an error object to be thrown.(Ä¯ò¹
+4javascript:S2814Ú"'i' is already defined.(¬´ô
+Ljavascript:S1117ï"/'isXML' is already declared in the upper scope.(äÖ“É
+Pjavascript:S1117÷".'type' is already declared in the upper scope.(­ÄŠšúÿÿÿÿ
+=javascript:S2814÷"'match' is already defined.(­ÄŠšúÿÿÿÿ
+Yjavascript:S1121ù"7Extract the assignment of "match" from this expression.(§ƒ«€ÿÿÿÿÿ
+Pjavascript:S1117’".'type' is already declared in the upper scope.(Ñ…’‚şÿÿÿÿ
+Hjavascript:S3696Î"&Expected an error object to be thrown.(»ñ¬ûÿÿÿÿ
+Gjavascript:S5869İ"*Remove duplicates in this character class.(Ôşì‘
+Fjavascript:S5869Ş"*Remove duplicates in this character class.(­³Ã
+Ljavascript:S5869ß"*Remove duplicates in this character class.(ÇŒÊ¤úÿÿÿÿ
+Ljavascript:S5869à"*Remove duplicates in this character class.(¥îÍ³şÿÿÿÿ
+Ljavascript:S5869á"*Remove duplicates in this character class.(”ò†ùÿÿÿÿ
+vjavascript:S5843ä"TSimplify this regular expression to reduce its complexity from 24 to the 20 allowed.(·±´çûÿÿÿÿ
+Ljavascript:S5869ä"*Remove duplicates in this character class.(·±´çûÿÿÿÿ
+^javascript:S5842ä"<Rework this part of the regex to not match the empty string.(·±´çûÿÿÿÿ
+Qjavascript:S1117‚"/'isXML' is already declared in the upper scope.(ÁşŠñùÿÿÿÿ
+4javascript:S2814"'i' is already defined.(òş¼
+4javascript:S2814"'l' is already defined.(òş¼
+<javascript:S2814"'elem' is already defined.(ÌÚƒùÿÿÿÿ
+Ljavascript:S1117œ"/'isXML' is already declared in the upper scope.(ğ›Ş‘
+Qjavascript:S1117¦"/'isXML' is already declared in the upper scope.(ç²ìóúÿÿÿÿ
+Ljavascript:S1117²"/'isXML' is already declared in the upper scope.(Áì¨
+Ljavascript:S1117¸"/'isXML' is already declared in the upper scope.(³ËÒò
+2javascript:S108×"Empty block statement.(»ß¨ù
+Rjavascript:S6035İ"0Replace this alternation with a character class.(•û°·ûÿÿÿÿ
+Vjavascript:S1135æ"4Complete the task associated to this "TODO" comment.(á’ùÿÿÿÿ
+gjavascript:S905œ"FExpected an assignment or function call and instead saw an expression.(öÇ…Õøÿÿÿÿ
+Kjavascript:S1117æ".'type' is already declared in the upper scope.(¹Ùçñ
+4javascript:S2814˜"'i' is already defined.(ŒÇ¹
+Kjavascript:S1117«".'type' is already declared in the upper scope.(à‘ø
+fjavascript:S3358®"DExtract this nested ternary operation into an independent statement.(¶ÈÍäşÿÿÿÿ
+fjavascript:S3358°"DExtract this nested ternary operation into an independent statement.(ˆİ‘¸ûÿÿÿÿ
+fjavascript:S3358²"DExtract this nested ternary operation into an independent statement.(ÈÒ½íùÿÿÿÿ
+fjavascript:S3358´"DExtract this nested ternary operation into an independent statement.(£ãïÉıÿÿÿÿ
+ajavascript:S3358¶"DExtract this nested ternary operation into an independent statement.(›Ñò
+ajavascript:S3358¸"DExtract this nested ternary operation into an independent statement.(•„à
+fjavascript:S3358º"DExtract this nested ternary operation into an independent statement.(ÕÓ‡òúÿÿÿÿ
+fjavascript:S3358¼"DExtract this nested ternary operation into an independent statement.(”«šşıÿÿÿÿ
+9javascript:S2814í"'i' is already defined.(ó·Ş›ıÿÿÿÿ
+Ljavascript:S1117†"/'isXML' is already declared in the upper scope.(‚‘±ö
+ajavascript:S3358‰"DExtract this nested ternary operation into an independent statement.(€ë€€
+Ljavascript:S1117â"/'isXML' is already declared in the upper scope.(éµ·Õ
+Pjavascript:S1117ê".'done' is already declared in the upper scope.(ªºˆ÷ùÿÿÿÿ
+Ljavascript:S1117€"/'isXML' is already declared in the upper scope.(®°æŠ
+Jjavascript:S1117ğ"-'num' is already declared in the upper scope.(ÒÖîß
+.javascript:S1763†"Unreachable code.(ñ°Ü­
+4javascript:S2685±"Avoid arguments.callee.(ŞÖĞè
+Xjavascript:S1481ë"6Remove the declaration of the unused 'index' variable.( ­‘şÿÿÿÿ
+Ljavascript:S1117û"/'index' is already declared in the upper scope.(ñ£êí
+Kjavascript:S1117û".'type' is already declared in the upper scope.(ñ£êí
+Mjavascript:S1117ˆ"0'handle' is already declared in the upper scope.(‰˜
+fjavascript:S3358³"DExtract this nested ternary operation into an independent statement.(¤ÿÍÊúÿÿÿÿ
+fjavascript:S3358Ğ"DExtract this nested ternary operation into an independent statement.(ÿÿ¨Êúÿÿÿÿ
+fjavascript:S3358Ğ"DExtract this nested ternary operation into an independent statement.(ÿÿ¨Êúÿÿÿÿ
+Ejavascript:S1186á"#Unexpected empty method 'teardown'.(èš—Ëÿÿÿÿÿ
+9javascript:S2685÷"Avoid arguments.callee.(³©è—şÿÿÿÿ
+4javascript:S2685"Avoid arguments.callee.(Ã¤ÇÑ
+9javascript:S2685"Avoid arguments.callee.(ûÏ‰Öıÿÿÿÿ
+9javascript:S2685"Avoid arguments.callee.(˜©ôÿøÿÿÿÿ
+Jjavascript:S1117‰"-'div' is already declared in the upper scope.(Œ½ñ™
+ajavascript:S3358ï"DExtract this nested ternary operation into an independent statement.(çŞ‚
+Jjavascript:S1117ğ"-'val' is already declared in the upper scope.(Ë§íš
+Hjavascript:S1117ğ"+'i' is already declared in the upper scope.(Ë§íš
+{javascript:S3973ß"YUse curly braces or indentation to denote the code conditionally executed by this "else".(ü›ßùÿÿÿÿ
+Ljavascript:S6035„"0Replace this alternation with a character class.(¥«Ãw
+fjavascript:S3358†"DExtract this nested ternary operation into an independent statement.(‹¶¶Ãûÿÿÿÿ
+fjavascript:S3358ı"DExtract this nested ternary operation into an independent statement.(½é«½øÿÿÿÿ
+fjavascript:S3358ş"DExtract this nested ternary operation into an independent statement.(Øæ‚èşÿÿÿÿ
+Bjavascript:S3696ƒ"&Expected an error object to be thrown.(œ¨­
+8javascript:S1116 "Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Jjavascript:S1117Æ"-'num' is already declared in the upper scope.(­Ç¬û
+fjavascript:S3358‡"DExtract this nested ternary operation into an independent statement.(ŒŠÄÂùÿÿÿÿ
+ajavascript:S3358²"DExtract this nested ternary operation into an independent statement.(Ë¯¸ç
+fjavascript:S3358‚"DExtract this nested ternary operation into an independent statement.(Øİ—Ôşÿÿÿÿ
+`javascript:S1854Õ">Remove this useless assignment to variable "prevOffsetParent".(”¼øÿÿÿÿÿ
+Wjavascript:S1117×"5'defaultView' is already declared in the upper scope.(è°áÚúÿÿÿÿ
+Rjavascript:S1121Û"6Extract the assignment of "elem" from this expression.(¬å²
+=javascript:S878İ"!Unexpected use of comma operator.(¾èµˆ
+<javascript:S878ß"!Unexpected use of comma operator.(’Üñx
+=javascript:S878á"!Unexpected use of comma operator.(Ô£ø”
+`javascript:S1854ã">Remove this useless assignment to variable "prevOffsetParent".(ûÄúöÿÿÿÿÿ
+Bjavascript:S878ã"!Unexpected use of comma operator.(ûÄúöÿÿÿÿÿ
+=javascript:S878æ"!Unexpected use of comma operator.(Ô£ø”
+=javascript:S878ì"!Unexpected use of comma operator.(àâÌ”
+Bjavascript:S878ğ"!Unexpected use of comma operator.(®–¹Òûÿÿÿÿ
+Sjavascript:S1481ù"6Remove the declaration of the unused 'table' variable.(¸½›ş
+Bjavascript:S878 "!Unexpected use of comma operator.(”Êùƒıÿÿÿÿ
+=javascript:S878† "!Unexpected use of comma operator.(‰·ñ´
+=javascript:S878• "!Unexpected use of comma operator.(À²¿ª
+Wjavascript:S1481 "5Remove the declaration of the unused 'left' variable.(™º¢Çüÿÿÿÿ
+Vjavascript:S1481 "4Remove the declaration of the unused 'top' variable.(™º¢Çüÿÿÿÿ
+qjavascript:S5850¦ "TGroup parts of the regex together to make the intended operator precedence explicit.(Âıâ¨
+qjavascript:S5850¾ "TGroup parts of the regex together to make the intended operator precedence explicit.(èÜÏ­
+fjavascript:S3358Ò "DExtract this nested ternary operation into an independent statement.(Íƒ×Ñıÿÿÿÿ
+ajavascript:S3358Ó "DExtract this nested ternary operation into an independent statement.(’¼šÅ
+bjavascript:S1121Õ "@Extract the assignment of "this[ method ]" from this expression.(¬’«©ûÿÿÿÿ
+ajavascript:S3358Ù "DExtract this nested ternary operation into an independent statement.(Õ¤µ
+ajavascript:S3358Ú "DExtract this nested ternary operation into an independent statement.(´ÌË¶
+fjavascript:S3358€!"DExtract this nested ternary operation into an independent statement.(ö“Úşÿÿÿÿ
+fjavascript:S3358‰!"DExtract this nested ternary operation into an independent statement.(äş¡İùÿÿÿÿ
+fjavascript:S3358‹!"DExtract this nested ternary operation into an independent statement.(…Àñšúÿÿÿÿ
+ajavascript:S3358!"DExtract this nested ternary operation into an independent statement.(Õ‰ì

@@ -1,0 +1,14 @@
+
+ojavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(á‚¯
+Njavascript:S1117*"2'rowIndex' is already declared in the upper scope.(¯ á‰
+ujavascript:S37766"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ðû‚áúÿÿÿÿ
+Wjavascript:S1481a"6Remove the declaration of the unused 'panel' variable.(Ýöýúÿÿÿÿÿ
+Tjavascript:S1854a"3Remove this useless assignment to variable "panel".(Ýöýúÿÿÿÿÿ
+<javascript:S2814…"'newDetail' is already defined.(ò…Ì—
+Ujavascript:S1481š"3Remove the declaration of the unused 'dc' variable.(îÜ’Ûþÿÿÿÿ
+Rjavascript:S1854š"0Remove this useless assignment to variable "dc".(îÜ’Ûþÿÿÿÿ
+6javascript:S2814£"'row' is already defined.(ÀÇßï
+Xjavascript:S1481¬"6Remove the declaration of the unused 'panel' variable.(Ýöýúÿÿÿÿÿ
+Ujavascript:S1854¬"3Remove this useless assignment to variable "panel".(Ýöýúÿÿÿÿÿ
+Ujavascript:S1481…"3Remove the declaration of the unused 'dc' variable.(¦Ú„Œüÿÿÿÿ
+Rjavascript:S1854…"0Remove this useless assignment to variable "dc".(¦Ú„Œüÿÿÿÿ

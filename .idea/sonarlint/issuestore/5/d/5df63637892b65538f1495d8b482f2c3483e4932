@@ -1,0 +1,38 @@
+
+Rjavascript:S6035§"0Replace this alternation with a character class.(»„İŒúÿÿÿÿ
+pjavascript:S3776»"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(‘Á•x
+;javascript:S2310ƒ"Remove this assignment of "k".(³”‘â
+bjavascript:S6325•"EUse a regular expression literal instead of the 'RegExp' constructor.(Ú´’˜
+ajavascript:S3358¯"DExtract this nested ternary operation into an independent statement.(ÜœÙ·
+ajavascript:S3358°"DExtract this nested ternary operation into an independent statement.(›¥üá
+Rjavascript:S1121°"5Extract the assignment of "ret" from this expression.(›¥üá
+8javascript:S1116Ã"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+^javascript:S1126Ì"AReplace this if-then-else statement by a single return statement.(¤¯ÓÅ
+8javascript:S1116Ñ"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116â"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116÷"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Š"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+vjavascript:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ƒ„œÑüÿÿÿÿ
+;javascript:S2814”"'callBack' is already defined.(Œî·†
+Tjavascript:S1117µ"2'callBack' is already declared in the upper scope.(¬Œ íúÿÿÿÿ
+8javascript:S1116à"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+9javascript:S2814”"'options' is already defined.(è£ŞW
+vjavascript:S3776ï"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(«„¸¼øÿÿÿÿ
+:javascript:S2814ñ"'options' is already defined.(²‰¹
+8javascript:S1116Á"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S2814Ó"'type' is already defined.(—™¯
+7javascript:S2814á"'type' is already defined.(—™¯
+Njavascript:S1854»"1Remove this useless assignment to variable "scr".(õ£‚®
+7javascript:S1186Õ"Unexpected empty function.(ŠëÍ§
+vjavascript:S3776ˆ	"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ˆàÏÿÿÿÿÿ
+_javascript:S1481Œ	"=Remove the declaration of the unused 'callbackImpl' variable.(Å»û¬ûÿÿÿÿ
+[javascript:S1121›	"9Extract the assignment of "matches" from this expression.(†ÏÎÀÿÿÿÿÿ
+Ajavascript:S6324Ë
+"$Remove this control character: \x00.(ÖØ–¡
+Ajavascript:S6324Ë
+"$Remove this control character: \x1f.(ÖØ–¡
+Fjavascript:S6324Í
+"$Remove this control character: \x00.(‡Åãÿÿÿÿÿ
+Fjavascript:S6324Í
+"$Remove this control character: \x1f.(‡Åãÿÿÿÿÿ
+qjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(“ÁŒ

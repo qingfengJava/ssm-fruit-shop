@@ -1,0 +1,12 @@
+
+qjavascript:S3776	"URefactor this function to reduce its Cognitive Complexity from 896 to the 15 allowed.(±°İ¢
+bjavascript:S2589"@This always evaluates to truthy. Consider refactoring this code.(Ñó©«ÿÿÿÿÿ
+qjavascript:S5850š"TGroup parts of the regex together to make the intended operator precedence explicit.(’üˆÚ
+qjavascript:S5850²"TGroup parts of the regex together to make the intended operator precedence explicit.(ÓÿÅÉ
+Sjavascript:S1854À"1Remove this useless assignment to variable "src".(öÜš³ûÿÿÿÿ
+vjavascript:S5850Ò"TGroup parts of the regex together to make the intended operator precedence explicit.(ìëƒóûÿÿÿÿ
+ajavascript:S3358Ù"DExtract this nested ternary operation into an independent statement.(ôˆíæ
+Mjavascript:S1117‘"0'plugin' is already declared in the upper scope.(Šß•±
+fjavascript:S3358Ã"DExtract this nested ternary operation into an independent statement.(ºÆÿÒüÿÿÿÿ
+fjavascript:S3358Ã"DExtract this nested ternary operation into an independent statement.(ºÆÿÒüÿÿÿÿ
+Qjavascript:S1854Â"4Remove this useless assignment to variable "tmpDiv".(êâôı

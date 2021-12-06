@@ -1,0 +1,44 @@
+
+7javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+3javascript:S2814"'h' is already defined.(ãçï
+7javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+pjavascript:S3776 "TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(õ‹²¤
+7javascript:S1116C"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+7javascript:S1116O"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Pjavascript:S1481Q"4Remove the declaration of the unused '_1d' variable.(¥Ü†
+7javascript:S1116X"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+ujavascript:S3776Y"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(áûúçøÿÿÿÿ
+Ljavascript:S1117b"+'v' is already declared in the upper scope.(²ÁüÚøÿÿÿÿ
+Mjavascript:S1117d",'el' is already declared in the upper scope.(­ƒË‘şÿÿÿÿ
+mjavascript:S4138m"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(­Âªóøÿÿÿÿ
+8javascript:S1116Š"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116œ"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Ijavascript:S1125£"'Remove the unnecessary boolean literal.(éªÉèıÿÿÿÿ
+8javascript:S1116«"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+qjavascript:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(›ÍËÖ
+Hjavascript:S1117¹"+'q' is already declared in the upper scope.(ÓÑ†±
+ijavascript:S4138½"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(“˜›¹
+Pjavascript:S1481Ã"4Remove the declaration of the unused '_3b' variable.(­ Ì
+Ijavascript:S1117Ò",'vv' is already declared in the upper scope.(˜¿º 
+ajavascript:S3358Ó"DExtract this nested ternary operation into an independent statement.(²Áê£
+8javascript:S1116Ô"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Õ"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116ò"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116‚"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Š"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116¨"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+8javascript:S1116Á"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+Tjavascript:S1481"2Remove the declaration of the unused 't' variable.(¼Âöşÿÿÿÿ
+Qjavascript:S1854"/Remove this useless assignment to variable "t".(¼Âöşÿÿÿÿ
+8javascript:S1116º"Unnecessary semicolon.(ôŸìúÿÿÿÿ
+vjavascript:S3776½"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(È“ó©ÿÿÿÿÿ
+Tjavascript:S1481È"2Remove the declaration of the unused 'v' variable.(éò“×úÿÿÿÿ
+Qjavascript:S1854È"/Remove this useless assignment to variable "v".(éò“×úÿÿÿÿ
+<javascript:S1186ê"Unexpected empty method 'left'.(¦èƒÚ
+Bjavascript:S1186ë" Unexpected empty method 'right'.(¾ŞÍ¿ùÿÿÿÿ
+Ijavascript:S1186™"'Unexpected empty method 'onBeforeLoad'.(®ÒÛ¦ıÿÿÿÿ
+Ejavascript:S1186š"(Unexpected empty method 'onLoadSuccess'.(›ˆƒø
+Hjavascript:S1186›"&Unexpected empty method 'onLoadError'.(¦Ù¥—ıÿÿÿÿ
+@javascript:S1186œ"#Unexpected empty method 'onSelect'.(ã–›Š
+Gjavascript:S1186"%Unexpected empty method 'onUnselect'.(‘·îÿÿÿÿÿ

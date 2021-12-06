@@ -1,0 +1,32 @@
+
+mjavascript:S4138n"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(×³ˆ¯ıÿÿÿÿ
+6javascript:S1186q"Unexpected empty function.(ºïÔæ
+pjavascript:S3776|"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(²¥¿Ç
+8javascript:S2814¾"'width' is already defined.(‰×›¯
+Wjavascript:S1481ß"5Remove the declaration of the unused 'tabs' variable.(‚†ÏÏøÿÿÿÿ
+Tjavascript:S1854ß"2Remove this useless assignment to variable "tabs".(‚†ÏÏøÿÿÿÿ
+qjavascript:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ì‡¯
+;javascript:S125’"Remove this commented out code.(åœàù
+Djavascript:S1125Æ"'Remove the unnecessary boolean literal.(ñ…¢¡
+Djavascript:S1125Ğ"'Remove the unnecessary boolean literal.(¹ÎÒ“
+vjavascript:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(Û®•°ûÿÿÿÿ
+Djavascript:S1125…"'Remove the unnecessary boolean literal.(Êóçç
+Ijavascript:S1125±"'Remove the unnecessary boolean literal.(»ôá°şÿÿÿÿ
+vjavascript:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(ôÄÆùùÿÿÿÿ
+9javascript:S2814€"'p_tool' is already defined.(ŸåŞó
+njavascript:S4138„"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(×³ˆ¯ıÿÿÿÿ
+9javascript:S2814Ÿ"'i' is already defined.(•Êÿøÿÿÿÿ
+Ijavascript:S1125¿"'Remove the unnecessary boolean literal.(øš´şúÿÿÿÿ
+6javascript:S2814Á"'tab' is already defined.(¸¬èŒ
+@javascript:S125Ç"Remove this commented out code.(öÃÇÿÿÿÿÿ
+:javascript:S2310Î"Remove this assignment of "i".(¨…ÄK
+vjavascript:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(°ø±Àøÿÿÿÿ
+njavascript:S4138†"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(²ûú«ÿÿÿÿÿ
+>javascript:S1186ï"!Unexpected empty method 'onLoad'.(·ªÌå
+@javascript:S1186ğ"#Unexpected empty method 'onSelect'.(äáøë
+Gjavascript:S1186ñ"%Unexpected empty method 'onUnselect'.(²ğ‹¿úÿÿÿÿ
+Ejavascript:S1186ò"(Unexpected empty method 'onBeforeClose'.(„áîƒ
+Djavascript:S1186ó""Unexpected empty method 'onClose'.(â‘ÿÿÿÿÿ
+Bjavascript:S1186ô" Unexpected empty method 'onAdd'.(…½“³şÿÿÿÿ
+Ejavascript:S1186õ"#Unexpected empty method 'onUpdate'.(»÷İæşÿÿÿÿ
+Ejavascript:S1186ö"(Unexpected empty method 'onContextMenu'.(íÍœû
